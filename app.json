@@ -1,0 +1,26 @@
+{
+  "pages":[
+    
+    "pages/index/index",
+    "pages/nav/nav",
+    "pages/detail/detail",
+    "pages/iBeiKe/iBeiKe",
+    "pages/xueshenghui/xueshenghui",
+    "pages/yingxin/yingxin",
+    "pages/gonglue/gonglue",
+    "pages/gonglue/1/1",
+    "pages/gonglue/2/2",
+    "pages/gonglue/3/3",
+    "pages/gonglue/4/4",
+    "pages/gonglue/5/5",
+    "pages/gonglue/6/6",
+    "pages/gonglue/7/7",
+    "pages/gonglue/8/8"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#9ac1d4",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"white"
+  }
+}

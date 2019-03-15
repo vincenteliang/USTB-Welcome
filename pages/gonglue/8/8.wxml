@@ -1,0 +1,29 @@
+<scroll-view scroll-y='true' style='height:{{screenHeight}}rpx'>
+  <view class="view-title">
+    <text class="text-title">通信</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>大家原来可能最主要用短信和QQ联系，在北科最普遍最主要的是用</text>
+      <text class='text text-strong'>微信</text>
+      <text class='text text-after'>，微信基本已经代替了短信。辅导员或者老师、班长会建微信群，通知一些重要信息；朋友圈也会有好友们的各种动态、活动宣传。还有各种有趣的公众号等着大家关注～别忘了先关注iBeiKe<!--和校会-->的哦！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>微信公众号：</text>
+      <text class='text text-strong'>ustb_ibeike</text>
+      <!-- <text class='text text-after'>、</text>
+      <text class='text text-strong'>ustbsu</text> -->
+    </view>
+    <view class="view-text">
+        <text class='text text-first'>二维码：</text>
+      </view>
+      <view class='code-bar'>
+        <view class='code-view'>
+          <image class='code-image' src='https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/wxcode-ibeike.jpg'></image>
+        </view>
+        <!-- <view class='code-view'>
+          <image class='code-image' src='https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/wxcode-su.jpg'></image>
+        </view> -->
+      </view>
+  </view>
+</scroll-view>

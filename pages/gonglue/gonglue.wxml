@@ -1,0 +1,18 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class='view-tap view-left view-1' bindtap='goTo1'>
+  </view>
+  <view class='view-tap view-right view-1' bindtap='goTo2'>
+  </view>
+  <view class='view-tap view-left view-2' bindtap='goTo3'>
+  </view>
+  <view class='view-tap view-right view-2' bindtap='goTo4'>
+  </view>
+  <view class='view-tap view-left view-3' bindtap='goTo5'>
+  </view>
+  <view class='view-tap view-right view-3' bindtap='goTo6'>
+  </view>
+  <view class='view-tap view-left view-4' bindtap='goTo7'>
+  </view>
+  <view class='view-tap view-right view-4' bindtap='goTo8'>
+  </view>
+</scroll-view>

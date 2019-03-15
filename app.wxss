@@ -1,0 +1,71 @@
+page {
+  background-image: url('https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/background.jpg');
+  background-size: 100% 100%;
+  font-family: PingFangSC-Light, sans-serif;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+  font-family: PingFangSC-Light, sans-serif;
+}
+
+.view-title {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  justify-content: left;
+  background-color: rgb(245, 245, 219);
+  height: 100rpx;
+  border: 2rpx solid lightgray;
+  border-radius: 6rpx;
+}
+
+.view-block {
+  border: 2rpx solid lightgray;
+  border-radius: 6rpx;
+}
+
+.view-title-inblock {
+  margin-top: 20rpx;
+}
+
+.view-text {
+  margin: 20rpx 50rpx 20rpx 50rpx;
+}
+
+.text-title {
+  margin-left: 30rpx;
+  font-size: 40rpx;
+  color: #9ac1d4;
+  font-weight: bold;
+}
+
+.text-title-inblock {
+  margin-left: 30rpx;
+  font-size: 40rpx;
+  color: #9ac1d4;
+  font-weight: bold;
+}
+
+.text {
+  font-size: 28rpx;
+  color: rgb(79, 79, 79);
+}
+
+.text-first {
+  margin-left: 57rpx;
+}
+
+.text-after {
+}
+
+.text-strong {
+  font-weight: bold;
+  color: rgb(170, 74, 64);
+}

@@ -1,0 +1,21 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class="view-title">
+    <text class="text-title">邮</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>鉴于大家入学后对信件、包裹的寄送流程不清楚，在此做个说明。同学们领取挂号信、平信、包裹流程。为了保证正常通信，及时安全准确的投递，要做到以下几点：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）书写正确的收信地址，即</text>
+      <text class='text text-strong'>北京市海淀区学院30号北京科技大学xxx信箱xxx同学收，邮编100083电话1xxxxxxxxxx（一定要写上信箱号！）</text>
+      <text class='text text-after'>。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）学生领取挂号信，要以班级（信箱）为单位，设专人领取（生活委员）。如特殊情况须自行领取，请在领取的同时出示学生证和身份证。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）凡没有写清信箱或地址不详的信件、包裹，收发室将按照邮政法有关规定做退信处理。</text>
+    </view>
+  </view>
+</scroll-view>

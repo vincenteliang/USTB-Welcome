@@ -1,0 +1,210 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class="view-title">
+    <text class="text-title">校门车站</text>
+  </view>
+  <view class="view-block">
+    <image src='https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/bus.png' style='width:100%' mode="widthFix"></image>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">乘车卡</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>入学后，学校将统一办理学生公交卡（公交2.5折，地铁3元起按路段收费，没有优惠）。由于学生卡发放程序繁琐，所以可能发放较晚，如果有需要可以自行办理市政公交一卡通。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>出北门坐307/617/484/630两站或由东门向北步行经过两个路口可达二里庄，在那里可以办市政公交一卡通，你只需要缴纳20元押金和首次充值的金额就可以办理一张一卡通，在很多地铁站和邮局储蓄所也可办理一卡通。学生卡每年9月30日到期，因此秋季学期学生证注册后需要进行激活。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>学生公交卡的充值只能在公交总公司（充值时注意要带学生证）。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">重要地点</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>五道口商圈（学校附近最大商业区，比较繁华）：出西门坐562/375/331或北门坐86/307/508或南门656路均可。亦可步行前往。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>中关村：最好不要购买电子产品，最好有熟人或者有懂行的人跟随。否则很容易被骗！一定要擦亮双眼！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>鸟巢和水立方：感兴趣的同学可以去看看，鸟巢参观门票：58元，水立方参观门票：30元。国家体育馆站下车东行400米左右或南门过地下通道到学院桥东站乘坐运通113/660/740路到北辰桥西站下车北行500米左右即可。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">观光景点</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>北京主要观光景点：（记得带学生证）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）颐和园：出西门331或北门690直达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）圆明园：出西门331或北门690直达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）天安门和故宫：周边还有人民大会堂，国家历史博物馆和毛主席纪念堂，离景山公园，北海公园，西单和王府井也很近。西门490路至阜成门北站，倒90外至天安门西，节假日的时候推荐去西土城或六道口倒地铁，人比较少。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>4）天坛公园：世界上最大的祭天建筑,为明、清两代帝王祭祀皇天、祈五谷丰登之场所。北门乘508路至地铁新街口站，步行至新开胡同转105路在天桥站下车。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>5）香山：北京爬山热门地，秋天红叶是一景。西门331或南门696直达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>6）欢乐谷：北京最大的游乐场，生日当天凭身份证免门票。南门乘特9至工大桥换乘31路下行至厚俸桥南下车。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>7）世界公园：很多世界著名建筑微缩版的聚集地，想了解世界建筑特点的同学可以去看看。南门乘特9或740路至看丹桥转477世界公园站下车。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>8）玉渊潭公园：每年四月中旬会有樱花节，可以五一班级春游过去玩。南门944至航天桥南即可。对面就是中央电视塔和太平洋海底世界。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>9）南锣鼓巷：挺有意思的一条胡同，有很多美食和小店，离鼓楼、什刹海很近。从学校步行至二里庄南口，坐635路宝钞胡同下车或南门386路至西土城站换乘地铁10号线至北土城站换乘8号线于南锣鼓巷站下车。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>10）三里屯：因北京夜生活最"繁华"的娱乐街之一三里屯酒吧街而出名，可以尽情地泡吧、购物。北门508路至牡丹园站换635路至幸福三村站下车。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>11）798艺术区：挺文艺的一块地。原本是工厂，后从2001年开始北京周边和北京以外的艺术家集聚于此，利用原有厂房的风格，发展为画廊、艺术中心等。南门696路至大山桥东站下车南行400米。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>12）清华大学：北门307/508直达，西门429/331/562直达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>13）北京大学：出西门562/429/331可到北大东门。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>14）中国人民大学：西门特15路、26路人大东门。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>15）北京师范大学：西门331直达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>16）北京外国语大学：西门944/运通109路到为公桥站下车。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>17）对外经贸大学：南门696/944/753路，需要走一段路程。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>18）首都师范大学：东南门944到花园桥南。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">出租车</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>尽管北京的公交和地铁十分发达，但是有时因为北京交通线路比较复杂，公交车不方便、等车、倒车也会很麻烦，有急事或者特殊情况时，也可以考虑打个车，尽管价格比较高，但是十分方便，而且服务质量很好，下面简单介绍一下北京出租车的收费情况。推荐Uber或者滴滴打车等打车软件。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>白天（早5：00--晚22：59）起步价13元（三公里以内），超出（含）三公里至十五公里以内的公里数每公里按2.3元计费。超出（含）十五公里以外的公里数（每公里加收50%空驶费）按3元计费。还有等红灯的费用等等。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>夜间（晚23：00-早4：59）起步价14元（三公里以内）其它计费方式同上，但是每公里另加收20%的夜间费用（不含起步价14元）。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>PS:北京出租车现在每次打车会加3元钱的燃油附加费,此外还有：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）等候、低速行驶费</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>租用出租车时，根据乘客要求停车等候或由于道路条件限制致使车辆的时速低于十二公里时，每累计五分钟，收一公里租价的费用（不含空驶费）。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）电话租车费</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京市有两个叫车服务电话，一个是北京出租车调度中心68373399，另一个是北京银建实业股份有限公司96103。只要打一个电话，再多交3元钱，就可以享受到外出打车的便捷。提示音过后，接线员接听电话，询问了具体打车地点和联系方式，随后挂线，开始查找。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）过桥过路费由乘客承担。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>另外，在这里要提醒大家，在北京乘车时，一定要到出租车站乘坐正规的出租车。上车时注意，车窗两侧应贴有收费标准、收费办法，和出租车汽车驾驶员服务监督卡。下车时携带好随身物品，向司机索要发票，需要时可记住所乘坐出租车的车牌号。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">机票、火车票</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>每到寒暑假，学校也会组织统一订火车票，多以班级为单位，而且可以订学生票的，但是只能订硬座的票（包括动车票）。现在开通了网上订票系统，所以大家也可以网络订票（www.12306.cn）。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>周边购买火车票和机票的地点</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）北门外如居家宾馆有一个代售点，正规，手续费5元。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）学校小物美西侧的金航线航空机票店可以订票，但是不能直接出票，需要拿着收据，等票送到那里去取。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）超市发对面的麦当劳旁边有一个订票点，正规，手续费5元。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>4）7斋旁边有一个自动取票机器，学生票免费取，成人票手续费5元。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">校内交通</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>校内交通主要写给拿快递或者去教室嫌远，以及有事需要在校内或者学校附近走很多路的同学。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）学校里有四处停放的许多ofo小黄车，微信扫码，输入车牌号，获取密码即可使用。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）学校九斋南面有卖新旧自行车的，价格还算合理，也可以根据个人爱好买个滑板漂移板代步。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）学校的核心路段都有路障做汽车隔离，基本每条路都有减速带，校园内行走还是很安全的。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>4）每节课下课后的几分钟，尤其是临近吃饭的那节课下课，教室走廊、楼梯、还有路上人都会特别多，所以要安排好去上课、占座、吃饭的时间。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>注意：具体出行之前，应先用高德地图或是百度地图对乘车路线进行搜索，由于具体的公交路线每年都可能变，所以以上仅供参考，在北京出行，就应学会自己看公交站牌，自己查路线。对于不熟悉北京的同学来说，建议买一张纸质地图。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">地铁</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>附近地铁站：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）五道口（13号线），北门有公交直达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）西土城（10号线），西门、南门有公交直达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）六道口（15号线），西门有公交直达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>以上公交均只需坐两站地，当堵车或者不想等公交时走过去是完全可以的。地铁非常准时、便捷，是编者出行的首选。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>下页附北京地铁线路图，网上也能很方便的搜到，地铁里也都有，总之进了地铁就不会迷路啦！</text>
+    </view>
+    <image src="https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/subway.png" style='width:100%' mode="widthFix"></image>
+  </view>
+</scroll-view>

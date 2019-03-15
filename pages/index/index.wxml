@@ -1,0 +1,24 @@
+<!--index.wxml-->
+<view class="container">
+  <view>
+    <image src='/resources/USTB.png' class='USTB'></image>
+  </view>
+  <view>
+    <image src='/resources/USTB-name.png' class='USTB-name'></image>
+  </view>
+  <view>
+    <image src='/resources/iBeiKe-jieshao.png' class='btn-image btn-iBeiKe' bindtap='goToA'></image>
+  </view>
+  <view>
+    <image src='/resources/yingxin.png' class='btn-image btn-yingxin' bindtap='goToB'></image>
+  </view>
+  <view>
+    <image src='/resources/nav.png' class='btn-image btn-nav' bindtap='goToC'></image>
+  </view>
+  <view>
+    <image src='/resources/gonglue.png' class='btn-image btn-gonglue' bindtap='goToD'></image>
+  </view>
+  <view class='view-bottom'>
+    <image src='/resources/iBeiKe-zhichi.png' class='iBeiKe'></image>
+  </view>
+</view>

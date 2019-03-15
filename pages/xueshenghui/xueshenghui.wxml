@@ -1,0 +1,670 @@
+<scroll-view scroll-y='true' style='height:{{screenHeight}}rpx'>
+  <view class="view-title">
+    <text class="text-title">一、简介</text>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">1.综述</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会是中华全国学生联合会成员单位、北京市学生联合会主席团单位，是在北京科技大学党委和上级学联领导下、团委指导下的广大同学实行自我管理、自我教育、自我服务、自我监督的学生组织，是学生自我管理的最高机构，代表和维护了广大同学的根本利益。北京科技大学学生会体系由校学生会与院学生会共同构成。</text>
+    </view>
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">2.历史</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会成立于 1954 年，自成立以来，学生会以“全心全意为同学服务”为宗旨，为同学办实事，与学校共脉搏，已经走过了 64年的历史征程。</text>
+    </view>
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">3.宗旨</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>学生会始终以“服务”为根本理念，以“维护同学权益”为基础，以“服务同学学习”为主体，始终将“家”的概念贯穿于学生会工作中，想同学之所想、急同学之所急、供同学之所需，真正代表同学、服务同学。同时，学生会以“丰富文化生活”为补充，举办了众多精品活动，如柿子文化节、校园主持人大赛、“吾肆放歌”校园歌手大赛、“论辩锋情”校园辩论赛、“我爱我师——我心目中最优秀的老师”评选活动等，都深受广大师生喜爱。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>六十四年风雨砥砺，六十四载薪火相传，一代代青年才俊与青春相约，与使命同行，与梦想为伴，在学生会的大熔炉里锤炼才干，砥砺品格，铸就了辉煌壮丽的青春乐章。未来的一年，将是我校站在“十三五规划”和深化高等教育综合改革的新起点上的关键之年。在这重要时间节点，学生会要在学校党委和上级学联的正确领导下，在校团委的具体指导下，紧紧围绕学校中心工作和改革发展大局，主动适应新形势，准确把握新要求，勇敢面对新挑战，继续坚持“强化引领、提升信誉、开拓平台、优化建设”的工作思路，不断保持和增强政治性、先进性和群众性、以切实提升同学们在精神追求、社会参与、成长成才、学习生活上的获得感为奋斗目标，引领广大北科学子将个人成长进步继续融入到学校改革发展稳定的大局中，在建设“国内一流、国际知名的高水平研究型大学”的进程中谱写崭新篇章。</text>
+    </view>
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">4.主席团介绍</text>
+    </view>
+    <view class='form'>
+      <view class='col col1'>
+        <view class='unit'>
+          <text class='text-form'>职务</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>主席</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>常务副主席</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>副主席</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>副主席</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>副主席</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>副主席</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>副主席</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>副主席</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>iBeiKe CEO</text>
+        </view>
+        <view class='unit'>
+          <text class='text-form'>iBeiKe CTO</text>
+        </view>
+      </view>
+      <view class='col col2'>
+        <view class='unit unit1'>
+          <text class='text-form'>姓名</text>
+        </view>
+        <view class='unit unit2'>
+          <text class='text-form'>傅泓源</text>
+        </view>
+        <view class='unit unit3'>
+          <text class='text-form'>李宇凡</text>
+        </view>
+        <view class='unit unit3'>
+          <text class='text-form'>潘锐辉</text>
+        </view>
+        <view class='unit unit4'>
+          <text class='text-form'>宇文颖杰</text>
+        </view>
+        <view class='unit unit5'>
+          <text class='text-form'>叶涟</text>
+        </view>
+        <view class='unit unit6'>
+          <text class='text-form'>刘昊</text>
+        </view>
+        <view class='unit unit7'>
+          <text class='text-form'>秦玉娴</text>
+        </view>
+        <view class='unit unit8'>
+          <text class='text-form'>孟昕</text>
+        </view>
+        <view class='unit unit9'>
+          <text class='text-form'>张之健</text>
+        </view>
+        <view class='unit unit10'>
+          <text class='text-form'>方梓霖</text>
+        </view>
+      </view>
+      <view class='col col3'>
+      <view class='unit unit1'>
+          <text class='text-form'>学院</text>
+        </view>
+        <view class='unit unit2'>
+          <text class='text-form'>冶金与生态工程学院</text>
+        </view>
+        <view class='unit unit3'>
+          <text class='text-form'>自动化学院</text>
+        </view>
+        <view class='unit unit3'>
+          <text class='text-form'>机械工程学院</text>
+        </view>
+        <view class='unit unit4'>
+          <text class='text-form'>机械工程学院</text>
+        </view>
+        <view class='unit unit5'>
+          <text class='text-form'>冶金与生态工程学院</text>
+        </view>
+        <view class='unit unit6'>
+          <text class='text-form'>冶金与生态工程学院</text>
+        </view>
+        <view class='unit unit7'>
+          <text class='text-form'>机械工程学院</text>
+        </view>
+        <view class='unit unit8'>
+          <text class='text-form'>机械工程学院</text>
+        </view>
+        <view class='unit unit9'>
+          <text class='text-form'>计算机与通信工程学院</text>
+        </view>
+        <view class='unit unit10'>
+          <text class='text-form'>东凌经济管理学院</text>
+        </view>
+      </view>
+      <view class='col col4'>
+        <view class='unit unit1'>
+          <text class='text-form'>专业</text>
+        </view>
+        <view class='unit unit2'>
+          <text class='text-form'>15级冶金工程专业</text>
+        </view>
+        <view class='unit unit3'>
+          <text class='text-form'>15级智能科学与技术专业</text>
+        </view>
+        <view class='unit unit3'>
+          <text class='text-form'>16级机械工程专业</text>
+        </view>
+        <view class='unit unit4'>
+          <text class='text-form'>16级机械工程专业</text>
+        </view>
+        <view class='unit unit5'>
+          <text class='text-form'>16级冶金工程专业</text>
+        </view>
+        <view class='unit unit6'>
+          <text class='text-form'>16级冶金工程专业</text>
+        </view>
+        <view class='unit unit7'>
+          <text class='text-form'>16级视觉传达设计专业</text>
+        </view>
+        <view class='unit unit8'>
+          <text class='text-form'>16级视觉传达设计专业</text>
+        </view>
+        <view class='unit unit9'>
+          <text class='text-form'>16级物联网工程专业</text>
+        </view>
+        <view class='unit unit10'>
+          <text class='text-form'>16级信息管理与信息系统专业</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">二、部门介绍</text>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">学生权益服务中心</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>调研部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会调研部作为学生会常代会下属的部门，隶属于北京科技大学学生会学生权益服务中心，是一个综合性强，专业性高，严谨求实、敬业乐群的部门。担负调查舆情，引领思潮的责任使命；培养发现问题、宏观分析的个人能力。通过提案调研来了解民心所向，维护学生权益，对校园裨补缺漏，提供民舆建议及解决方案，事无巨细改善校园，并主要负责学代会的提案部分工作。闲谈是一个关注时事热点，剖析周边现状，引发思考，畅所欲言的项目。我爱我师作为调研部的经典项目，通过引导毕业生回顾四年大学时光，评选出学生心目中最喜爱的教师并感恩优秀教师的付出。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）外场活动：“幸福这件小事”活动、“校园七宗罪”评选外场、……各类活动，应有尽有，年年不同，等你来创造！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）“我爱我师”评选：一年一度大型精品活动，全校师生，共同参与，线上线下，公开投票，评选出你心目中最喜欢的老师，从一个全新的角度去看你的大学。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）文案推送：“闲谈”系列推送，平常的话题、不平常的思路，捕捉热门话题，引导校园舆情，从线下选题到线上推送，由你带给大家轻松有趣的阅读体验。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）提案大赛：2017模拟政协提案大赛全新启动，更高端的赛事，更广泛的影响力，我们，为你而来！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（5）提案调研：篮球场装灯、饮水机升级，你能看到的校园点滴的改变都离不开我们的努力。你的诉求，从一份提案开始。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（6）团学测评：柿子文化节、吾肆放歌等大型活动背后也有我们忙碌的身影，大数据时代便是我们工作的开始，我们是帮助团学活动越办越好的智囊团。</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>权益部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会权益部作为学生会常代会的下属部门，隶属于北京科技大学学生会学生权益服务中心，是维护北科学子权益的先锋。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>作为学生会的重要职能部门之一，权益部致力于为同学们创造和维护良好的学习环境和生活环境，为同学们争取在校学习生活各方面的福利与保障。作为一个服务型的维权部门，权益部秉持着“全心权益，全意为你”的理念，与学校各部处、校会、院会各部门积极合作，切实开展基层学生服务，真正做到“有问题，找权益”。我们聆听并虚心接受同学们提出的意见与建议，不断完善权益的工作方式，为北科更好地明天而努力奋进。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）外场活动：“幸福这件小事”活动、“校园七宗罪”评选外场、……各类活动，应有尽有，年年不同，等你来创造！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）“我爱我师”评选：一年一度大型精品活动，全校师生，共同参与，线上线下，公开投票，评选出你心目中最喜欢的老师，从一个全新的角度去看你的大学。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）文案推送：“闲谈”系列推送，平常的话题、不平常的思路，捕捉热门话题，引导校园舆情，从线下选题到线上推送，由你带给大家轻松有趣的阅读体验。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）提案大赛：2017模拟政协提案大赛全新启动，更高端的赛事，更广泛的影响力，我们，为你而来！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（5）提案调研：篮球场装灯、饮水机升级，你能看到的校园点滴的改变都离不开我们的努力。你的诉求，从一份提案开始。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（6）团学测评：柿子文化节、吾肆放歌等大型活动背后也有我们忙碌的身影，大数据时代便是我们工作的开始，我们是帮助团学活动越办越好的智囊团。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（7）与后勤集团，饮食中心，图书馆，网络中心，卡务中心，保卫保密处，校医院等部处对接，解决同学们反应的权益问题。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（8）定期开展饮食中心座谈会、后勤集团座谈会、网络中心座谈会等会议，搭建基层学生与部处老师直接沟通的平台。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（9）与学校各大部处对接，开展图书馆新生讲解、绿色图书馆、走进后厨、毕业食堂、网络安全知识外展等活动。</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">学生干部服务中心</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>组织部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学组织部隶属于北京科技大学学生会学生干部服务中心，按照“一体化”工作模式，开展学生干部服务工作，培养北科能人、社会精英。在干部选拔、培养、考评、调整四个方面开展招新换届、干部学校、技能培训、高校论坛等活动，让学生会真正成为培养创新型、领导型、综合型人才的摇篮。同时从学生会内部干部着手，再辐射到各学院学生干部，注重本、研学生会的联系。通过校会走进院会等活动使学校整体的学生工作进行得更顺利、完备，促进校、院一体化进程。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）完成招新后校会全体部员的基本信息统计工作。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）组织策划每期的学生干部培训学校，以增进校会新成员之间的认识，提升校会各部门之间的协作水平。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）制定学生干部考核办法并对校会各部门及全体成员进行考核。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）修订北京科技大学学生会年鉴。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（5）建立北京科技大学学生会部长档案。</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>办公室</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会办公室隶属于北京科技大学学生会学生干部服务中心，作为学生会的“大管家”和后勤保障中心，主要负责各类文件、资料的整理，协调学生会各部门之间的关系，日常会议的安排与组织，各项活动的后勤保障，并负责打印制度、报销制度、值班制度、档案管理制度、发文制度等综合事务,使得学生会日常办公更加高效，是具有综合性和多功能性的协调与服务部门。耐心细致的办公室人秉承学生会的优良传统，以创新为工作动力，以严格管理为手段，耐心细致地工作，热情周到地服务，力争打造更加优秀的团队。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>主要工作</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）校学生会办公室的日常值班</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）协助主席团处理学生会日常事务</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）校学生会相关资产的管理</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）校学生会各项活动物资的准备</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（5）账目的统计与报销</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（6）早操的安排与成绩的汇总</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（7）活动场地的审批</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">学生成长服务中心</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>生活部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会生活部隶属于北京科技大学学生会学生成长服务中心，以“服务同学，贴心生活”为宗旨，以“团结协作，高效务实”为原则，本着“快乐生活，用心创造”的理念，通过“梦的起点”迎新系列活动、排队周活动、万圣节舞会、厨艺大赛、早餐打卡、篮球嘉年华、“满井星光”荧光夜跑活动、“多彩生活”节日系列活动搭建起生活服务平台、节日文化平台、体育运动平台，倡导文明健康的生活方式，增强“健康生活，多彩生活”的意识，为同学们打造多姿多彩、充实有意义的校园生活。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）服务同学类</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>迎新工作，早起打卡，排队周，柿子文化节，厨艺大赛等</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）节日主题类</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>万圣节舞会，中秋节、女生节、母亲节等节日主题外场互动</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）体育竞技类</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>篮球嘉年华，荧光夜跑等</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>学习部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会学习部隶属于北京科技大学学生会学生成长服务中心，致力于增添学校的人文气息、引领文化潮流、促进我校积极先进思想的传播、丰富课余学习生活。学习部秉承全心全意为同学服务的宗旨，以举办活动为职责、服务同学为目标，开展学风建设系列活动、讲座信息平台等，为同学们提供更实际更实用的服务。学习部将紧跟校学生会步伐，加强与主席团的密切沟通，加强建立与同学们的联系，增强为同学们的服务意识，努力成为一个团结优秀的集体。学生部将力图满足同学们更多精神文化需求，努力营造和谐校园文化氛围，成为师生之桥，文化之帆，学风之舵。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）三色校园</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>通过邀请名家作家等人物进行系列主题讲座，从文学，艺术，创业三个角度丰富学生校园生活，提高学生的综合素质。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）名师面对面</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>以受同学们欢迎和能对同学们生活学习进行有益引导的老师为主体开展的讲座与访谈结合式的活动，同时以学习优秀的同学为主体开展对同学的学习指导。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）四六级模考</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>模拟真实的四六级考试，让学生熟悉考试流程，调整考生应考心态，提高四六级通过率。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）“答题吧少年”大型百科知识竞赛</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>该比赛以班级对抗赛的形式，从以人文、科技、校园文化等十大类百科知识为题库，辅以选择、填空、抢答、场外援助等多种形式，旨在培养新生班级的团队精神，提高班级凝聚力，同时引领校园文化思潮，鼓励培养全方位综合发展人才。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（5）“情系钢院”校庆系列活动</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>此活动将包括摄影、征文、演讲、朗诵、书法等相关形式，在校庆期间加以整合作为一个系列向全校宣传推广，活动内容多样提供给同学们全方位的展示自我的平台。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（6）“论辩锋情”校园辩论赛及辩论赛表演赛</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>通过举办辩论赛活跃思维，培养思辨精神，增添北京科技大学的人文气息。</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">校园文化服务中心</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>文体部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会文体部隶属于北京科技大学学生会校园文化服务中心，肩负引领校园文化、倡导及传播先进思想的重任，是学生会内部专门负责策划和举办学校大型活动的部门。文体部的主要职能是：搞好文艺普及工作，组织开展丰富多彩的文体活动，倡导校园文化，创造良好的校园文化氛围，丰富同学的第二课堂, 陶冶同学们的情操。文体部正在由活动型向服务型过渡，不仅要承办好柿子文化节、主持人大赛、元旦晚会、歌手大赛等大型活动，更要努力做到与校园、时政热点相结合，办出具有科大特色的文体活动。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）“主我青春 持骋北科”校园主持人大赛</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>每年的十一月份开始，我们将策划举办为期2个月左右的主持人大赛。从各个学院分站赛，到全校规模的复赛、决赛，筛选出一批最优秀的主持人，并为同学们创造独一无二的观赛体验。广泛获得同学们的好评。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）新生文艺汇演</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>在各个学院的配合和帮助下，我们合办了这场迎新晚会。晚会质量通过层层把关，只为给同学们带来最精彩的视觉感受。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）“吾肆放歌”校园歌手大赛</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>每年的3月份，我们将举办“吾肆放歌”歌手大赛。为期两个月，从各个学院分站赛过关斩将的选手汇聚到一起，通过复赛、决赛的比拼，最终决出前三甲。歌手大赛作为校园内最受欢迎、最具品牌影响力的活动之一，每年都吸引了无数同学们的关注，培养了一批“校园明星”。</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">校园信息服务中心</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>网络部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会网络部隶属于北京科技大学学生会校园信息服务中心，网络部主要通过网络媒介，传递校会最新信息，实现无纸化宣传，是学生会的高新技术部门，其最大特点是不仅涵盖学生会各部门的工作信息，而且更是发布学生会最新活动动态的平台，其主要职能有：对校会网页的维护与更新工作，不断提高网页技术含量，做好版面编排；及时更新网页新闻的内容，做好网上宣传工作，在最快的时间内上传到新闻发布中心；大型活动中负责做好网上宣传工作，配合各部门搞好各项网上宣传工作以及提供相关技术支持；承担网站制作的工作，并负责对网站内容进行相关审核。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）校会官网、钢镚儿社区的技术维护、推送更新、内容管理</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）部门新项目的策划、设计和开发工作</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）建立并维护与其他部门、院会以及其他北科新媒体之间在活动宣传联动、优质内容共享、技术问题支持、平台共同运营等方面的合作关系</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）部门内部技术交流、技术培训、团队建设等活动</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>媒体部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会媒体部隶属于北京科技大学学生会校园信息服务中心，主要负责通过多媒体进行各项活动前后的宣传及校内信息的传播，具体可分为两个方面：平面媒介、视频媒介。平面组负责制作活动相关周边产品，通过图文结合的方式，以最概括的文字、最简洁的图像将每一项活动信息及消息最大限度地呈现给大家，多渠道多对象地强化校会的品牌力量。通过专业的视频制作对学生会的各项精品活动进行宣传；对各项重大活动及重要信息进行详细的、全面的诠释，以最丰富的形式呈现每一次活动。增加同学们对各项活动的认同感，并通过多种宣传方式使学生会更好地引领校园文化。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>几乎所有校会的活动都有我们的身影，参与校会所有宣传品制作，比如上学期的：迎新，柿子文化节，主持人大赛，提案大赛等等。</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>编辑部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>作为学生会各类宣传品的主创部门，编辑部主要负责文字编辑，活动记录以及线上线下宣传，通过多种宣传途径实现对学生会各项精品活动的全程宣传和学生会理念的传达；其主要职能是通过微信公众平台、微博等途径反映学生会各项活动的动态，宣传学生会的精神风貌，使同学们及时了解到近期校内的各种活动，增加同学们对各项活动的认同感，并通过多种方式引领校园文化。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）校学生会官方微信公众号的运营，以推送的形式宣传校会精品活动、发表对于热点时事的观点、收集并反馈同学们在平台上的留言与建议，全心全意为同学服务</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）微博、微信个人号的推广与建设，及时发布各类活动信息、校园趣闻，记录校园风景、引领校园文化</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）负责学校各类大型活动新闻稿件的写作、现场照片的拍摄、后期资料的整理，实现对精品活动的全程宣传</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）举办“白T设计大赛”等活动，参与制作新生手册等宣传品</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">社会联络与校友服务中心</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>外联部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会外联部隶属于北京科技大学学生会社会联络与校友服务中心。外联部是联系学校以及校内院系的枢纽部门，主要以拓展院、校际交流为工作主题，以增进校企合作关系为工作重点，为学生会各项活动筹备资金，提供支持。另外，外联部旨在向外展示学校学生的真我风采，努力提高我校学生会在社会上的知名度，诸如主持人大赛、柿子文化节等活动的赞助资金的获取。再如极具影响力的校园歌手大赛吾肆放歌，我们请到了南征北战等著名歌手以及制作人，并录制了一系列明星ID。以“全心全意为同学服务”为宗旨，丰富的学生福利，知名品牌的外场宣传也是外联工作的一大亮点。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）日常赞助工作：通过举办各种名人讲座、明星高校行等活动，从社会上引入一定的资金提供给学生会所需部门并为学生争取福利。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）校会活动赞助：结合学生会各项活动，通过与社会各类机构的判交流为其提供包括人力、资源、物品等各项资源支持和保障。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）校际交流：负责与高校之间的公关交流工作，了解各个学校的学生会组织构成，借鉴其他学校的优良之处；出席北京市其他高校的精品活动。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）感受各校校园文化；我们作为校学生会代表，与其他高校友好往来、交流联谊、共同进步。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（5）社会公关：作为学生会代表与人民日报等社会组织进行共同交流，弘扬我校校园文化。</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>校友部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会外联部隶属于北京科技大学学生会社会联络与校友服务中心。校友部作为学生会校友与广大学子之间沟通、联系的桥梁，主要负责联系广大校友，更新、完善校友信息；做好校友回访接待工作，增进校友感情；帮助校友充分发挥已有的社会资源，为同学们服务。我们充分利用现有资源联络校友，同时努力开拓新的道路，发掘新的资源，继续搭建校友活动与校友联络的平台让校友们能够在一个全新的平台上相互交流；积极联络校友，让校友将他们的人生经验分享给同学们，让他们成为在同学之间耳熟能详的人物。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>活动介绍</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（1）校友年会：邀请历届校友来校聚会。上午进行庆祝活动，下午为茶话会形式。更多有创新的想法和活动期待你的参与！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（2）校友企业双选会：为服务广大校友和同学，校友部举办校友企业双选会。该活动旨在加强校友与学校联系，助力应届生就业。如果你想提前了解到优秀校友对于就业的感悟，就来我们校友部吧！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（3）校友座谈会：邀请校友返校进行讲座。讲述学习、生活、工作经验。不一样的大学经历，不变的校友感情！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（4）校友采访：对校友进行采访、着重关注当时在学生会工作的经历。重现学生会历史。与你们的偶像学长学姐面对面交谈，机不可失时不再来！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（5）校友节日祝福：每逢节日为学长学姐们送上温暖的节日问候与祝福，让他们依然能够感受到科大带给他们的浓浓情意。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>（6）完善校友信息库：作为校友部的日常工作，及时更新校友的信息，为我们之间的联系架起更加稳固的桥梁。</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">iBeiKe</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>iBeiKe是北京科技大学学生会下属的技术性学生组织。iBeiKe 团队建立和维护的网站，主要服务于北京科技大学的师生，是一个综合性的学生网站及校园服务网站，也是北京科技大学历史最长的学生网站。网站的标语是“网上网下，一样精彩”。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>网址：http：//www.ibeike.com</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>iBeiKe研发部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会的网络技术支持。致力于iBeiKe网站的整体及下属站点Home、City、PT、WiKi、OCW、Team的技术维护、服务器维护以及应用开发。同时，也会参与到部分产品的设计中。</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>iBeiKe设计部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>iBeiKe设计部负责iBeiKe网站的原型设计、美工创新等视觉感官体验的进步及完善工作。通过内部人员互相协作，将成员的创造性和想象力运用到网站及校学生会的推广、宣传中去。设计部的日常包括海报设计、传单设计、网页设计、周边设计等，并且他们对网站的功能、需求都有相当的理解，也更趋向于从需求到设计到实的包揽。</text>
+    </view>
+    <view class="view-title-3">
+      <text class='text-title-3'>iBeiKe运营部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>iBeiKe运营部的主要工作是策划、组织、开展与iBeiKe网站相关的各种线上线下活动，完善iBeiKe团队的个性化、人性化、及服务化宗旨，制定工作计划和目标，统筹其他部门，确保各项工作的实施。运营部成员同时维护iBeiKe的官方站务博客iBeiKe Team站、微信公众号、iBeiKe微博。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">三、大型活动介绍</text>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">1.“吾肆放歌”校园歌手大赛</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>14大学院鼎力呈现  15大赛区交相辉映</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>“吾肆放歌”是万人哼唱的青春旋律</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>“吾肆放歌”是由你主宰的绚烂舞台</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>若问北科最为火爆、参与人数最多、影响范围最广、每年最令全校师生翘首以盼的校园活动是什么？当属由北京科技大学学生会协同各学院院学生会举办的“吾肆放歌”校园歌手大赛。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>“吾纵吾想，肆意歌唱”，从料峭三月，到仲夏五月，从最初的院分站赛到最后牵动人心的决赛现场，每一届“吾肆放歌” 复赛、决赛都引发抢票热潮，这是撼动校园的狂欢节日，是旷日持久的音乐风暴。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>无论是摇滚重金属小清新，还是乡谣流行民族风，每个歌手用他们独具特色的嗓音，点燃青春无悔的烽火，用美如天籁的歌声，诉说隐藏心底的情绪。“吾肆放歌”是音乐与梦想的交织，声音与情感相通的舞台，它洋溢着青春的色彩，也传递着热情与朝气。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>相约下一个五四之夜，我们期待着不一样的新歌声，期待独特的你在聚光灯下放肆歌唱。</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">2.“论辩锋情”校园辩论赛  </text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>巧舌辩群儒，铁齿论江山</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>感受思想交锋/体会思维碰撞/聆听智慧声音</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>“论辩锋情”校园辩论赛由北京科技大学学生会学习部主办，校辩论队协办，十三支学院承办的一场顶级的思与辩的对话。不专属于学术，更不是遥不可及的亭台楼阁。辩论是一场智者舌尖上的对战，它是一场知识的比赛，不以输赢为结果，更注重在激烈辩论中碰撞出真理的火花。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>对于工科见长的贝壳，“论辩锋情” 辩论赛无疑是北科一道靓丽而又“遗世独立”的风景线，这里有雄辩的风姿，论战攻辩，能言快语；这里有睿智的博思，头脑风暴，谈天说地。指点江山，激扬文字，王者之巅，舍我其谁？又岂能错过？</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">3.“主我青春 持骋北科”校园主持人大赛 </text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>一展主持明星风采 释放梦想力量</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>贝壳金银话筒 谁能荣耀问鼎？</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学校园主持人大赛是校园内最受校领导大力支持及全校师生欢迎的精品活动之一。听从本心、追寻本心，主持人大赛把舞台完全交还给大家，没有过多的限制，而是给予同学们充分自由的空间去表达自己的思想。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>这是北科每一年都不容错过的绝佳语言盛会和视听盛宴；是承载北科主持传统，绽放青春活力的舞台。一展主持风采，释放梦想力量，机会就在这里。谁又是下一个新星，荣耀问鼎金银话筒，主宰盛大舞台？</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">4.篮球嘉年华  </text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>无兄弟 不篮球</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北科不一样的“多彩生活” 等你来</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>跨步，运球，一个华丽的转身，上篮！得分！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>篮球嘉年华是由北京科技大学学生会生活部主办的一项校园级篮球赛事。比赛活动主要分为1v1斗牛赛、3v3篮球赛、投篮之星（分为男子和女子两项）和扣篮大赛。男生场，过障碍运球上篮，技术满分；女生专场，“以一击十”篮球游戏，趣味横生；你愿意陪她到天荒地老，那你愿意邀她与你一起战出精彩吗？情侣专场等你参加。活动面向全校同学，更重要的是，北科最高颜值集体袭来，看不够的矫健身姿和帅气上篮，你想要的北科男神也许就在这里。</text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">5.柿子文化节</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>金秋十月，盛“柿”北科</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>我们永不说再见</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>要说北科的味道，那一定是柿子的浓香。金秋十月，盛“柿”北科——年复一年柿子的收获，也为我校的秋日渲染了极具北科特色的文化氛围。多年来，北京科技大学学生会致力于举办及推广我校的“柿子文化”，并将其作为传统品牌活动继承发扬、推陈出新，年年柿子香、年年新花样。节日期间，“游戏嘉年华”、“白T大赛”、“厨艺大赛”、“闭幕舞会”等不同形式、不同亮点的柿子文化节系列活动，为北科学子营造出一个又一个金色的秋天，留下一年又一年美好的回忆。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>“柿子文化节”是一种象征，更是一种寄托，它将伴随北科，一始而终。图书馆前的柿子依旧会成熟，而我们与柿子节，永远不说再见。回忆还在、欢乐还在、柿子的香甜，永远会在。   </text>
+    </view>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class="text-title-inblock">6.“我爱我师——我心目中最优秀的教师”评选活动</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>师韵如兰，历久弥香</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>作为北科校园传统品牌活动，“我爱我师——我心目中最优秀的教师”年度评选是以应届毕业的大四本科生为调研对象，由他们投票选出自己心目中最优秀的专业课教师与公共课教师的活动；但在网络投票期间，其他年级的小伙伴也可通过iBeike等渠道参与给自己喜爱的老师送上祝福，替他们拉票。“我爱我师”评选通过学生的投票，传达对老师的敬意，联系师生的情谊，构建起师生互相交流的桥梁。</text>
+    </view>
+  </view>
+
+</scroll-view>

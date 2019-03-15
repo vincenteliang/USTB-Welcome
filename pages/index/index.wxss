@@ -1,0 +1,67 @@
+/**index.wxss**/
+
+page {
+  background-image: url('https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/index_background.png');
+  background-size: 100% 100%;
+}
+
+.btn-image {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 325rpx;
+  height: 81rpx;
+  left: 50%;
+  color: #fff;
+}
+
+.btn-yingxin {
+  top: 62%;
+  left: 340rpx;
+}
+
+.btn-nav {
+  top: 72%;
+  left: 90rpx;
+}
+
+.btn-gonglue {
+  top: 83%;
+  left: 340rpx;
+}
+
+/* .btn-xueshenghui {
+  top: 51%;
+  left: 90rpx;
+} */
+
+.btn-iBeiKe {
+  top: 51%;
+  left: 90rpx;
+}
+
+.USTB {
+  position: absolute;
+  width: 100rpx;
+  height: 100rpx;
+  top: 3%;
+  left: 50rpx;
+}
+
+.USTB-name {
+  position: absolute;
+  width: 50rpx;
+  height: 260rpx;
+  top: 11%;
+  left: 75rpx;
+}
+
+.iBeiKe {
+  position: absolute;
+  width: 350rpx;
+  height: 80rpx;
+  top: 92%;
+  left: 200rpx;
+}

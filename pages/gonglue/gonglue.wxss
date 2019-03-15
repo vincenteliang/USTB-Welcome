@@ -1,0 +1,49 @@
+page {
+  background-image: url('https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/gonglue_background.jpg');
+  background-size: 100% 100%;
+}
+
+.view-tap {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+  position: absolute;
+  /* border: 2rpx solid black; */
+}
+
+.view-left {
+  left: 145rpx;
+}
+
+.view-right {
+  left: 415rpx;
+}
+
+.view-1 {
+  top: 13.5%;
+}
+
+.view-2 {
+  top: 34%;
+}
+
+.view-3 {
+  top: 55%;
+}
+
+.view-4 {
+  top: 75%;
+}
+
+.view-bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 97%;
+  left: 230rpx;
+}
+
+.text-bottom {
+  font-size: 20rpx;
+}

@@ -1,0 +1,22 @@
+<scroll-view scroll-y='true' style='height:{{screenHeight}}rpx'>
+  <view>
+    <swiper indicator-dots='true' indicator-active-color='white' autoplay='true' interval='3000'>
+      <swiper-item wx:for="{{detail.imageList}}">
+        <image mode='aspectFill' src='{{item.url}}'></image>
+      </swiper-item>
+    </swiper>
+  </view>
+
+  <view class='title-view'>
+    <text class='title-text'>{{detail.title}}</text>
+    <view class='image-nav' bindtap='goToNav'>
+      <image src='/resources/go.png' style='width:100%; height:70%; margin-top:15rpx; margin-left:-40rpx;'></image>
+    </view>
+  </view>
+
+  <block wx:for="{{detail.detail}}">
+    <view class='introView'>
+      <text class='text text-first'>{{item.text}}</text>
+    </view>
+  </block>
+</scroll-view>

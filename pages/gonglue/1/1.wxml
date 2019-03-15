@@ -1,0 +1,82 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class="view-title">
+    <text class="text-title">购物篇</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>1）五道口——五道口地铁站的五道口购物中心，是一个大商场，餐厅多，还有华联超市，来了北科一定会经常光顾，各种聚餐经常会选择这里。但是周五周末人会超级多（被称为宇宙中心）！</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）西单——北门690直达西单商场。也可以乘坐地铁。西单购物中心、华威大厦、西单明珠、新一代、西单商场都是淘货的好地方。此外，汉光、君太以及大悦城商品齐全。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）三里屯——汇集了好多国外的名牌，这里有全世界最大的adidas店，最大的苹果体验店。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>4）王府井——东方新天地里面的商品都是名牌，步行街上有美邦，森马等店。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>5）新中关、欧美汇购物中心——地铁十号线海淀黄庄站A口出，或者在北门坐508也可以直达。品牌众多。比较推荐的两个购物商场。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>6）</text>
+      <text class='text text-strong'>iBeiKe校内交易版块：</text>
+      <text class='text text-after'>http://city.ibeike.com</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>另外，用于校内交易的iBuy网页APP即将正式上线，敬请期待。</text>
+    </view>
+    <view class="view-text">
+      <text class="text-title-inblock">Tips:</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>关于各商城价位情况：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>五道口购物中心——不能砍价。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>西单：华威大厦——适合学生的中等价位。大多数不能砍价。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>西单：明珠、新一代——地摊价，可以砍价。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>西单：汉光、君太、大悦城——对于学生来说偏贵，不能砍价。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>三里屯、王府井——地价贵，导致商品价格与本身价值不成正比。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>新中关、欧美汇——对于学生偏贵，不能砍价。</text> </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">洗衣篇</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>1）洗衣机：大部分宿舍里面都有公用自动刷卡洗衣机（在每层楼的东/西侧开水房中），8斋和9斋则是在一楼设有多台自动刷卡洗衣机，每次刷卡（校园卡）可用50分钟/3元。卫生状况一般，建议使用消毒液。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）干洗店：8斋旁边的居民楼里、学校大物美一层或操场北侧小物美东侧的居民楼里。</text> </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">裁剪篇</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>大物美一层。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">集体、个性化服装定制</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>大学里需要定做班服、队服、宿舍服、各种DIY个性服饰的可以找学校的专业团队"clothes+"团队订制，详情登录www.kuluosi.com。</text>
+    </view>
+  </view>
+</scroll-view>

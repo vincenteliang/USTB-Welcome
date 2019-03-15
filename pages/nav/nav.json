@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "校园导航",
+  "disableScroll": true,
+  "backgroundColor": "#9ac1d4",
+  "usingComponents": {
+    "i-tabs": "../../dist/tabs/index",
+    "i-tab": "../../dist/tab/index"
+  }
+}

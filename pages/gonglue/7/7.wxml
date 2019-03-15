@@ -1,0 +1,11 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class="view-title">
+    <text class="text-title">医疗</text>
+  </view>
+  <view class="view-block">
+    <view>
+      <image src="https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/yiliaobaoxiao.png" style='width:100%' mode="widthFix"></image>
+      <image src="https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/menzhenbaoxiao.png" style='width:100%' mode="widthFix"></image>
+    </view>
+  </view>
+</scroll-view>

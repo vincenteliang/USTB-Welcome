@@ -1,0 +1,491 @@
+<view>
+  <scroll-view scroll-y='true' hidden='{{current!="homepage"}}'>
+    <view class="view-title">
+      <text class="text-title">报到</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'>我校2018级新生于</text>
+        <text class='text text-strong'>8月28日、29日</text>
+        <text class='text text-after'>报到入学。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>学校不会统一接待提前到校的新生，因此请各位同学尽量按时报到，如提前到校，需自行寻找住处(另29日即可在公寓办理入住)。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">校内学生岗</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>8月28日、29日提供校内迎新服务，主要岗位有家长休息区、服务台、问讯处（万秀园路口、鸿博园路口和实验楼路口）。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">1.家长休息区:</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>家长休息区位于五环广场内部，是迎新志愿者面向家长的窗口。新生与家长可以在帐篷内休息，并有志愿者提供水、纸巾、扇子等，分发各种宣传资料，解答疑问，帮助和引导新生独立进入体育馆完成报到工作，为家长送去及时又贴心的帮助。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">2.服务台</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>服务台位于五环广场内部，家长休息区北侧，负责活动区域，同时也是家长休息区和其他各岗位的坚实后盾。服务台备有常备与应急物资，设立特色展板、拍照展板，解答家长的疑问，帮助和引导新生独立进入体育馆完成报到工作。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">3.问讯处</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>问讯处的岗位分布在了校园的三个位置，分别是万秀园路口、鸿博园路口和实验楼路口，迎接校园不同方向过来的新生及家长们，指路并解答疑惑，提供服务。万秀问讯处的同学兼有接车任务，帮助新生将行李从车上搬运下来，引导他们到达宿舍。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">校外学生岗</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>8月29日在北京西站，北京南站和北京站提供校外接站服务，主要岗位有接站口、机动组、接站台、停车场和跟车讲解。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">1.接站口</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>志愿者负责在接站口举着带有“北京科技大学”字样的手牌，用扩音喇叭召集新生及家长，组织新生及家长，等候引导的同学将其接引到接站台。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">2.引导组</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>志愿者负责引导新生及家长到达接站台，路上解答疑问，介绍到达接站台和停车场的注意事项。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">3.接站台</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>志愿者负责安排新生及家长在休息区休息，等候发车，提供饮用水、晕车药等物品，答疑解惑。新生及家长要凭录取通知书兑换乘车发票并耐心等待，人数接近发车要求时，由志愿者带往停车场乘车。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">4.停车场</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>志愿者清点乘车人数，进行检票并回收，安排新生及家长上车，帮助放置行李。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">5.跟车讲解</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>志愿者对北京科技大学的历史及现状进行简单的讲解，介绍北科大学生会，推广校会微信公众平台，以便新生更加便捷地获取各方面报道信息。</text>
+      </view>
+    </view>
+
+    <view class="view-title">
+      <text class="text-title">现场报到</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'>时间：</text>
+        <text class='text text-strong'>8月29日 7:00~23:00</text>
+        <text class='text text-after'>(管乐、民乐、声乐特长生的报到在八月初，具体时间另行通知)</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>地点：</text>
+        <text class='text text-strong'>学校体育馆</text>
+        <text class='text text-after'></text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>大家要带齐全部证件：</text>
+        <text class='text text-strong'>录取通知书、身份证、高考准考证、档案袋（有的省市由学校邮寄至高校）、团组织或党组织关系、团员证、1寸（至少9张）和2寸（至少6张）照片等等，转户口的同学还要带上户口迁出证。</text>
+        <text class='text text-after'>需要说明的是，这些东西可能不会在当天用到，但今后用处很多，特别是照片（照片的底色也不要全部红色什么的，白色和蓝色也得有，另外最好备份一份证件照的电子版，以后可能也会用到）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>带上上述物品之后，进入体育馆，找到你所在学院新生报到的具体位置，就可以开始报到了。工作人员会给你一个档案袋，里面应该有一张</text>
+        <text class='text text-strong'>校园平面图、一张报到流程图、手机卡、军训事宜通知、体检表、校园一卡通</text>
+        <text class='text text-after'>等。然后填写学籍卡，报名签到。(宿舍钥匙在宿管处领取，可先办理住宿)。填的资料比较多，推荐自备黑色签字笔。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>注：校园卡中预存有60元，是北京市政府发给大学生的每月60元的补助，以后的补助会在每月9号打到学校统一发放的银行卡上，每一年情况略有不同。另外新生刚入学的时候不能从银行卡转账到一卡通，大家可以到</text>
+        <text class='text text-strong'>万秀园二层或者鸿博园侧门</text>
+        <text class='text text-after'>进行人工充值。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>报到的时候家长</text>
+        <text class='text text-strong'>不允许</text>
+        <text class='text text-after'>进场，只能在休息区休息，所以这个时候可以让家长先去买一些东西，以免待会儿过于忙乱。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>学校会提前分配好宿舍（可以在迎新网http://yx.ustb.edu.cn/index.html查看），今年8月28日下午即可去公寓办理入住手续，可以先办理入住再行报到。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>安顿好宿舍的事宜，就可以去领取军训服装了，领取军训服装的地方报到发给你的档案袋里会有说明，注意要当场试一下衣服鞋子，不合适的可以当场更换。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>8月30日下午进行英语分级考试，8月31日进行计算机分级考试，按照学校安排进行即可。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>9月1日上午举行开学典礼，穿着军训服装，典礼结束后会统一坐大巴前往军训基地进行军训。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">Tips:</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>录取通知书袋子里要求大家填写的东西一定要如实填写，并且把要求带的东西一定带上，需要在网上填写的也不要忘了，完成网上报到和网上家庭经济情况普查。（迎新网：http://yx.ustb.edu.cn。注意带上录取通知书的信封）</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>要带好用于转团组织或党组织的材料、高考毕业的档案(部分高中会统一要求学生将档案邮寄到学校，此类情况在报到时说明即可)、转户口证明等。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>办理托运的同学请注意学校只受理北京站和北京西站的行李托运，除了学校通知书里的标签外，自己也要自备标签注明到站、学校、姓名、联系方式，学校发的行李签不够用的话可以自行复印。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>家庭经济困难生报到时先在学院报到处登记，后执学院盖章的“绿色通道”资助申请表在现场“绿色通道”处进行报到。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>一定要记得自己的学号！(很多地方都会用到)</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>若有打算申请助学金之类的同学，建议提前准备好贫困证明（至少是乡级以上民政部门盖章确认的），否则到时候需要让家里再另行寄来，在时间上可能会来不及。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>报到的那几天到宿舍推销的人会很多（生活用品、手机卡、报刊杂志之类），建议大家注意，最好不要买！最好不要买！最好不要买！这些东西一般都没有保障，每年因此上当受骗的同学比较多。大家可以多多了解之后再决定要不要购买。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>报到期间宿舍区人员混杂，容易给不法分子可乘之机。陌生人来推销或做检查一定要拒绝，如果有人自称辅导员（或者学长学姐），也不要放松警惕，查看其有效证件之后才能相信。</text>
+      </view>
+    </view>
+    <!-- <view style='height:10vh'>
+    </view> -->
+  </scroll-view>
+
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+
+  <scroll-view scroll-y='true' class='page' hidden='{{current!="group"}}'>
+    <view class="view-title">
+      <text class="text-title">校内旅馆</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'>北京科技大学会议中心（会议中心比较贵，学生优惠价大约300/天），是按照酒店的模式进行管理的，每套客房均配有卫生间、24小时热水、卫星电视、电话、宽带网及舒适的全套家具，住宿条件是非常好的。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>电话：会议中心（电话：6231-5522） 培训楼（电话：6233-2512）</text> </view>
+    </view>
+
+    <view class="view-title">
+      <text class="text-title">周边住宿</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'>周边旅馆电话及费用</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>汉庭快捷酒店（北四环学院桥西北角，电话：8232-6688，价格：标准间550元起）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>速8酒店（二里庄北口，电话：8238-8066，价格：标准间380元起）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>如居家快捷酒店（志新路西口，电话：8238-8338，价格：标准间322元起）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>鑫昌泰宾馆（二里庄南口，电话：6232-8956，价格：标准间300元起）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>曲园快捷酒店（海淀区志新东路8号，电话：6232-9233，价格：312元起）。</text> </view>
+    </view>
+
+    <view class="view-title">
+      <text class="text-title">较远住宿</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'>如果校园周边的宾馆或者招待所都已住满，大家也不用担心，学校南门向南过一条街，花园北路上，或者过两条街到牡丹园地铁站，北土城西路上也有很多的宾馆。条件和学校周边的差不多。</text> </view>
+    </view>
+
+    <view class="view-title">
+      <text class="text-title">手机预订</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'>校外酒店预订推荐app（排名有先后，依据使用体验评定）：</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>华住会：旗下拥有全季、星程、汉庭、海友等多家酒店品牌。标准的宾馆预订程序，质量有保障。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>爱彼迎airbnb：全球知名短租（民宿）网站，推荐旅游时使用，学校周边房源较少（预订时一定注意退款等相关政策细节，因房主而定）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>小猪民宿：国内知名的短租民宿预订平台。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>首旅如家：首旅如家酒店集团在国内360余个城市运营近3200余家酒店，覆盖“高端”、“中高端”、“商旅型”、“休闲度假”、“长租公寓”、“联盟酒店”全系列的酒店业务。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>艺龙：中国领先的在线旅行服务提供商之一。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>美团：吃喝玩乐全都有，美团一次美一次。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>携程：一站式专业预订服务。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>微信：进入“钱包”->“酒店”即可预订。</text> </view>
+    </view>
+    <!-- <view style='height:10vh'>
+    </view> -->
+  </scroll-view>
+
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+
+  <scroll-view scroll-y='true' hidden='{{current!="remind"}}'>
+    <view class="view-title">
+      <text class="text-title">推荐自带物品</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'>1）衣物。根据自己的实际需要带合适的衣物。北京的冬天风很大，建议多带风衣等抗风的衣服。此外睡衣等建议自带。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>2）相关药品。治疗感冒发烧、清热解毒、润喉清嗓以及应对各种皮外伤的药品，还有邦迪、风油精、云南白药等。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>3）学习文具（如笔，修正带，科学计算器等）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>4）其他：男生不要忘记剃须刀，女生要带卫生巾。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>喜欢乐器的同学要记得带（乐器在大学的作用很大哦，不仅可以闲暇时陶冶情操，同时也是提高个人魅力的利器之一，军训时可以大显身手哦）。</text>
+      </view>
+    </view>
+
+    <view class="view-title">
+      <text class="text-title">推荐现买物品</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class="text-title-inblock">1）床上用品及衣物篇</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>枕套、枕巾、床单、被套各两套，学校的虽然有点贵，不过很全面，也很方便，两套供换洗，如果习惯了家里的被子等也可从家里带过来，平时一定要注意常洗自己的床上用品。平时穿的鞋至少保证两双：棉拖、凉拖各一双。蚊帐在学校可以买到。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">2）寝室用品及杂物篇</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>洗面奶、浴巾、洗发水、沐浴露、花露水、牙刷、牙膏、漱口杯、护发素、脸盆、毛巾、洗衣用具（手套，洗衣粉，肥皂，衣领净，刷子等依据自己习惯准备）、洗洁精；</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>一个大点的盆或者桶之类的洗脚用、抹布（擦床、柜用）若干；</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>水杯、卫生纸、餐巾纸，大碗（泡面用）、筷子、勺子；</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>暖壶（供平时在宿舍打开水喝）；</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>普通衣架、衣夹之类；</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>挂钩（方便挂东西）；</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>梳子、镜子，洗浴套装（浴巾、浴球或者浴花等）；</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>小点的水果刀，扇子，雨伞，寝室需要柜子的锁若干（不同宿舍可能会有所不同，建议到宿舍确认过后再去购买）；可充电台灯（宿舍晚上11:30熄灯），接线板等等。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">3）学习用品及其他篇</text>
+      </view>
+      <view class=" view-text">
+        <text class='text text-first'>英语字典（也可以到学校在买，毕竟很重不好带），听力耳机（不仅入学英语分级考试要用到，今后的外语考试一直用，会在新生报到处销售），笔记本，剪刀，削水果刀、胶水/胶棒/双面胶/单面胶，订书器（交作业和打印纸装订的时候经常用，务必要有），学校专用的作业纸（可以在学校物美超市或图书馆的书店买到）。防晒霜（这个提醒一下，军训的时候很有必要用哦，怀柔那边有的时候阳光很猛烈），眼药水，指甲刀，电话卡。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>以上生活学习用品只是提供参考，新生可以选择性携带或购买。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">4）银行卡和现金</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>提醒大家一定要注意的是身上随身的钱不要过多，二三百即可，入学报到时会有一些地方需要现钱（如：购买床上用品等），再留一些备用即可，切莫巨款在身；银行卡也注意保管好，以便不时之须。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>注：每年在新生报到后</text>
+        <text class='text text-strong'>假装导员、班长</text>
+        <text class='text text-after'>等收取各类费用的骗子不在少数。请注意当你走进宿舍之后，任何人不会以任何理由向你收取现金，除了骗子。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock ">Tips:</text>
+      </view>
+      <view class="view-text ">
+        <text class='text text-first'>喜欢网购的同学也可以在来到学校之后在网上购买一些物品，学校的地址:北京市海淀区学院路30号北京科技大学，邮编：100083。取快递的地方在学校腐蚀楼的旁边（部分快递柜移至小物美对面），大家可以在入学时拿到的地图上找到。</text>
+      </view>
+      <view class="view-text ">
+        <text class='text text-first'>ps: 快递柜存放时间3天左右，建议算好时间下单。</text>
+      </view>
+    </view>
+    <!-- <view style='height:10vh'>
+    </view> -->
+  </scroll-view>
+
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+
+  <scroll-view scroll-y='true' hidden='{{current!="mine"}}'>
+    <view class="view-title">
+      <text class="text-title">入学考试</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'>入学后，会进行统一英语分级考试和计算机等级考试（详见你们的录取通知书和报到时发的资料袋，会有关于考试的一些说明），除个别专业外大部分同学都是必考的。</text> </view>
+    </view>
+
+    <view class="view-title">
+      <text class="text-title">新生外语考试</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'></text>
+        <text class='text text-strong'>时间： 8 月 30 日 - 8 月 31 日</text>
+        <text class='text text-after'></text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>英语入学分级考试每年的情况会有所不同，但都是根据考试的分数将学生分入不同等级的班进行学习。学校将根据新生考试成绩将学生分在四个等级（一，二，三，四级和免修）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>入学分级考试的考试时间为2小时，考试题型分为听力、词汇、语法、结构、完形填空和阅读，很多地方在向四级题型靠拢（如：</text>
+        <text class='text text-strong'>听力变为四个选项，每段对话只读一遍且试卷上没有题目</text>
+        <text class='text text-after'>等），难度可能会比高考略高。各位考生在考试前要准备好</text>
+        <text class='text text-strong'>身份证、无线耳机（详见Tips）、电池、2B铅笔、橡皮</text>
+        <text class='text text-after'>等考试必备物品。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>编者认为英语分级考试非常重要，暑假可以做适当的准备，保持高考左右的状态。当然，未进入高等级班的同学也不要灰心，普通班中也有许多人的英语水平可圈可点。</text>
+      </view>
+      <view class="view-text">
+        <text class="text-title-inblock">Tips:</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>入学报到时在篮球场北侧可以购买无线耳机（无线耳机坏了可以在规定时间拿到教学楼2楼自主学习旁边正对楼梯的教室去修）。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>无线耳机购买后，在报到当天可以到逸夫楼指定教室进行试音，请将耳机调至“IR-1”档。考试时一定要带无线耳机，并尽量早点去，会有老师教如何使用。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>千万不要忘记参加考试！</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>千万不要忘记参加考试！</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>千万不要忘记参加考试！</text>
+      </view>
+    </view>
+
+    <view class="view-title">
+      <text class="text-title">新生计算机分级考试</text>
+    </view>
+    <view class="view-block">
+      <view class="view-text">
+        <text class='text text-first'></text>
+        <text class='text text-strong'>时间：8 月 31 日</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>考试时间为两小时，考试地点为逸夫楼 8 楼或者 9 楼，具体请到时候看学校的通知。计算机、通信、自动化专业的同学不需要参加。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>计算机考试题型为选择题、填空题和指令操作题。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>其中指令操作题较为简单，和高中的题型基本相同，但选择题和填空题与高中有较大出入，不过考察的内容较为简单，希望同学们积极准备。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>考察的主要范围为：</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>1）计算机基础知识：计算机概述，计算机发展简史，计算机的分类，计算机的特点，计算机的用途，计算机系统的组成，计算机的硬件组成，计算机软件，微机的硬件，构成中央处理器（CPU），进位计数制，不同进制数之间的转换，二进制的原码、反码和补码，数的定点表示和浮点表示，ASCII码。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>2）操作系统：操作系统的功能，操作系统的分类操作，系统发展简史，Windows窗口和对话框，Windows 7中文件和文件夹的管理，文件和文件夹的使用，文件和文件夹的复制和移动，文件和文件夹的重命名、删除和属性设置，任务管理器。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>3）Microsoft Word 2010：编辑文档，文档排版，制作表格，图文混排。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>4）Microsoft Excel 2010：工作表的格式设置，公式和函数，图表，管理与分析数据。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>5）Microsoft PowerPoint 2010：在演示文稿中插入信息，设计幻灯片外观，设置幻灯片放映，传递演示文稿。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>6）计算机网络基础：计算机网络概述，计算机网络的发展，计算机网络的定义和组成，计算机网络的体系结构，计算机网络协议，IP地址和域名。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>其中计算机与通信工程学院、自动化学院的孩子计算机等级默认为免修，大一上学期直接进入编程语言的学习。其他学院中此次考试成绩优异的学生亦可免修《大学计算机基础》这门课程。</text>
+      </view>
+      <view class="view-text">
+        <text class='text text-first'>（考试时可打开电脑中的计算器计算进制间的转换。）</text>
+      </view>
+    </view>
+    <!-- <view style='height:10vh'>
+    </view> -->
+  </scroll-view>
+
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+  <!-- -------------------------------------分割线----------------------------------------- -->
+
+  <!-- <i-tab-bar i-class="i-tab-bar" current="{{ current }}" color="#9ac1d4" bindchange="handleChange" fixed style="background-color:'#9ac1d4'" hidden>
+    <i-tab-bar-item key="homepage" icon="task" current-icon="task_fill" title="现场报到"></i-tab-bar-item>
+    <i-tab-bar-item key="group" icon="group" current-icon="group_fill" title="家长安置"></i-tab-bar-item>
+    <i-tab-bar-item key="remind" icon="tasklist" current-icon="tasklist_fill" title="必备物品"></i-tab-bar-item>
+    <i-tab-bar-item key="mine" icon="brush" current-icon="brush_fill" title="入学考试"></i-tab-bar-item>
+  </i-tab-bar> -->
+
+  <view class='tabbar'>
+    <view bindtap='goTo1' class='button'>
+      <view class='view-button-image'>
+        <image class='button-image' src='/resources/xcbd.png'></image>
+      </view>
+      <view class='view-button-text'>
+        <text class='text'>现场报到</text>
+      </view>
+    </view>
+    <view bindtap='goTo2' class='button'>
+      <view class='view-button-image'>
+        <image class='button-image' src='/resources/jzaz.png'></image>
+      </view>
+      <view class='view-button-text'>
+        <text class='text'>家长安置</text>
+      </view>
+    </view>
+    <view bindtap='goTo3' class='button'>
+      <view class='view-button-image'>
+        <image class='button-image' src='/resources/bbwp.png'></image>
+      </view>
+      <view class='view-button-text'>
+        <text class='text'>必备物品</text>
+      </view>
+    </view>
+    <view bindtap='goTo4' class='button'>
+      <view class='view-button-image'>
+        <image class='button-image' src='/resources/rxks.png'></image>
+      </view>
+      <view class='view-button-text'>
+        <text class='text'>入学考试</text>
+      </view>
+    </view>
+  </view>
+</view>

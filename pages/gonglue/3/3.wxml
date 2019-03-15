@@ -1,0 +1,79 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class="view-title">
+    <text class="text-title">住</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>宿舍主要规格为</text>
+      <text class='text text-strong'>6人间（7斋宿舍是4人间）</text>
+      <text class='text text-after'>，每个人的床位是和写字台连在一起的，上面是床，下面是衣柜及写字台电脑桌。从硬件上来说，北科的宿舍条件非常好，各种安全设备设施一应俱全。楼管相当负责尽职，但是在开学的时候可能会因为人员较杂，有时难免有疏忽，所以各位同学也要自行注意，不要为了贪小便宜而上当受骗。大家要提高警惕，财物不要乱放，外出锁好门窗，钥匙不能给陌生人，也不要放在电箱或其他地方！</text>
+    </view>
+    <view class="view-text">
+      <text class="text-title-inblock">Tips:</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>新生需要注意开学时推销的人很多，千万要小心，主要包括：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>报纸杂志：根据自己需要，如果想要看一点时事新闻或者学英语，可以选择一份报纸订来看，但一定要选择正规一点的报纸，如环球时报，ChinaDaily等，有些不正规的报社送报的时间没有保障。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>生活用品：例如运动鞋、耳机、手表等,质量可能没有把握。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>总之，上门来推销的东西尽量不要购买。还有开学初对那些自称是谁谁谁来宿舍收钱的人一定不可轻易相信，除了本班导员以及班主任，任何人没有资格收取任何资费。</text> </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">洗澡</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>宿舍楼内每一层都有浴室（八斋浴室位于一层，九斋浴室位于2，3层），各个宿舍浴室的热水提供时间不同，刷卡洗澡，按照流水时间1角/分钟。不过平时热水可能会迟到早退。</text> </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">饮水</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>宿舍楼一般每隔一层就有一个开水器，只要到指定楼层去打即可，也是一分钟一角，也是刷校园卡。学校水站购买三十桶水免费送饮水机。订购地点在七斋活动中心西面偏门的第一间屋子。订购饮用水会有人送到宿舍并安装，但是宿舍的电功率是有限制的，不支持饮水机加热，会跳闸。想喝热水最好还是去开水房打（逸夫楼、教学楼、图书馆、各学院楼都有免费提供热水的地方）。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">宿舍用电</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>宿舍</text>
+      <text class='text text-strong'>晚上23：30</text>
+      <text class='text text-after'>会熄灯断电（除空调外的所有插口都会断电），关楼门（所以大家不要太晚回来，会麻烦楼管起床开门，楼管可能会把辅导员一起找下来），第二天早上6点恢复供电。周五、周六、法定节假日、寒暑假期间晚间不断电。每个学期每个宿舍有100度免费电，用完后要自己去自助机上或到水电办购买（需先凭学生证到楼管处换取电卡）。自助机在一斋一层、二斋一层、五斋一层、九斋一层、鸿博、学生活动中心一层大厅，逸夫楼一层，图书馆一层，万秀园餐厅都有。水电办位于体育馆北侧。其中，自助机购买使用的是饭卡余额，水电办购买使用现金。</text> </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">门禁</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>现在的宿舍楼都有门禁系统，一般时段都会是关闭的（节假日和高峰期除外），要刷校园卡才能进出。宿舍管理算蛮严的，都是按时早6点开门，23：30关门。原则上不可以夜不归宿。男女生不能相互串门。其中男生进女生宿舍是绝对不可能的，帮忙拿东西也不行。家长来看望也要登记的。有时候会断电断水，但是一般都会提前几天通知。学校会根据实际情况已经将宿舍分好，开学即可见，大部分是一个专业在一起，不过如果专业不能分整寝室的话，可能与其他专业混住。有些少数民族及预科班的也有分在同一寝室的情况。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>另外需要注意的一点：北科的宿舍楼为了安全起见，对宿舍进行了限电处理，大功率（单体功率超过300W）的电器如电饭煲、电吹风等是不能使用的，一旦使用，电闸会自动跳起。如果跳闸的话，到门口打开电箱把开关推下再推上一次就会恢复供电。新式电表有限制，如果连续跳闸3次，电表将不能自动供电，需要到楼下找宿管解决。如果需要吹头发可以到该楼层特定的插座处用电（一般在楼梯口处，热水房或洗衣房）。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">空调暖气</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>空调：每间寝室的空调有一个遥控器，签署过协议之后，由宿舍长管理。大家使用空调时最好把窗户关上，节约用电。另外，</text>
+      <text class='text text-strong'>空调夜间供电</text>
+      <text class='text text-after'>。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>暖气：暖气位于寝室内窗台下，无需手动开启或关闭，不过有一个手动阀门，可以调节暖气大小。</text>
+    </view>
+  </view>
+</scroll-view>

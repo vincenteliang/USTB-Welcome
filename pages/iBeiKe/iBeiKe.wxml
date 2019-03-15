@@ -1,0 +1,460 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class="view-title">
+    <text class="text-title">iBeiKe</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>iBeiKe网站是由iBeiKe团队建立的网站，主要服务于北京科技大学的全体师生。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>iBeiKe网站成立于2001年3月1日，曾经历过数次改版，现已包括贝城社区、PT资源站和OCW课件共享等多个实用网站。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>贝城社区是由iBeiKe团队建设和维护的一个网上论坛，自从iBeiKe网站建站之初就已具备贝城社区。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>贝城社区曾经先后使用过三套论坛系统：LeadBBS、DvBBS和Discuz!，前两者都是基于ASP环境的，而Discuz!是基于PHP环境的。贝城社区从2005年9月17日晚开始转为使用PHP环境下的Discuz! 2.5F，现在已经升级到Discuz! X3.2。
+      </text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>PT资源站是一个拥有海量的视频、游戏、音乐、软件等资源的汇集网站，通过上传分享资源从而共享更多资源，最为便利的便是无需校园网ipv4流量，不花一分钱畅享优质资源。
+      </text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>OCW是iBeiKe团队2015年上线的课件共享网站，现已汇总了学校大量课间资源，在北科大课件共享系统（OpenCourseWare）里，您可以共享您拥有的课件，下载您需要的课件，获取更多的知识，结交到与自己在相关领域有共同兴趣的挚友。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>iBuy商城正在筹备过程中，即将上线，敬请期待……</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>iBeiKe团队（iBeiKe Team）是由北京科技大学一些热衷于网络技术的学生组建的学生组织，负责建设和维护iBeiKe网站，是北京科技大学学生会的机构之一。iBeiKe团队成立的时间大概是2000年的年底，具体时间已经很难考证。王安、孙伟涛、王虎等四人是该团队的创办人。</text>
+    </view>
+  </view>
+  <view class="view-title">
+    <text class="text-title">部门介绍</text>
+  </view>
+  <view class="view-block">
+    <view class="view-title-inblock">
+      <text class='text-title-inblock'>iBeiKe研发部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学学生会的网络技术支持。致力于iBeiKe网站的整体及下属站点Home、City、PT、WiKi、OCW、Team的技术维护、服务器维护以及应用开发。同时，也会参与到部分产品的设计中。</text>
+    </view>
+    <view class="view-title-inblock">
+      <text class='text-title-inblock'>iBeiKe设计部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>iBeiKe设计部负责iBeiKe网站的原型设计、美工创新等视觉感官体验的进步及完善工作。通过内部人员互相协作，将成员的创造性和想象力运用到网站及校学生会的推广、宣传中去。设计部的日常包括海报设计、传单设计、网页设计、周边设计等，并且他们对网站的功能、需求都有相当的理解，也更趋向于从需求到设计到实的包揽。</text>
+    </view>
+    <view class="view-title-inblock">
+      <text class='text-title-inblock'>iBeiKe运营部</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>iBeiKe运营部的主要工作是策划、组织、开展与iBeiKe网站相关的各种线上线下活动，完善iBeiKe团队的个性化、人性化、及服务化宗旨，制定工作计划和目标，统筹其他部门，确保各项工作的实施。运营部成员同时维护iBeiKe的官方站务博客iBeiKe Team站、微信公众号、iBeiKe微博。</text>
+    </view>
+  </view>
+  <view class="view-title">
+    <text class="text-title">历任负责人</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>第一届（2000年10月—2001年8月），第一任CEO王安，第一任CTO孙伟涛；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第二届（2001年9月—2002年8月），第二任CEO高展，第二任CTO王虎；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第三届（2002年9月—2003年8月），第三任CEO张伟，第四任CEO郝春风，第三任CTO江树源，开发总监赖斐；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第四届（2003年9月—2004年9月17日），第五任CEO白伯纯，开发总监陈亮；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第五届（2004年9月18日—2005年6月20日），第六任CEO李琳，第四任CTO李乐丁，开发总监黄文辉；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第六届（2005年6月21日—2006年5月28日），第七任CEO吴亮</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第七届 (2006年5月29日—2007年5月)，第八任CEO郑亮，第五任CTO伍超，第一任CAO唐吉德;</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第八届 (2007年6月—2008年)，第九任CEO马廷臣;</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第九届 (2008年6月—2009年5月)，第十任CEO冯文阳，第一任CFO马骏；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十届 (2009年6月—2010年6月)，第十一任CEO袁项南，第六任CTO吴晓斌，第二任CFO李斌；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十一届 (2010年6月—2011年6月)，第十二任CEO尚乐，第七任CTO孙伯图，第三任CFO杨彩燕；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十二届 (2011年6月—2012年6月)，第十三任CEO邱永振，第八任CTO孙豪，第四任CFO王基镔 崔颖；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十三届 (2012年6月—2013年6月)，第十四任CEO贾志卿，第九任CTO关书伟，第五任CFO刘彦廷；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十四届 (2013年6月—2014年5月)，第十五任CEO宋文斌，第十任CTO李斗汉，第六任CFO刘瑜 孙新宇；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十五届 (2014年5月—2015年6月)，第十六任CEO蒋庆宇，第十一任CTO靳京，第七任CFO刘白颿；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十六届 (2015年6月—)，第十七任CEO白思琦，第十二任CTO曹宇宁，第八任COO林文岑 杨丹；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十七届（2016年5月—），第十八任CEO王靖儒，第十三任CTO高玉婷，第九任COO马亨飞 韩杰，第三任CAO王蕙；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十八届 (2017年6月—)，第十九任CEO田晔，第十四任CTO黄雅慧，第十任COO范翔宇 第十任CFO邢哲宁；</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>第十九届（2018年6月—），第二十任CEO张之健，第十五任CTO方梓霖，第十一任COO张峻峰，第十一任CFO杭中辞，第四任CAO韦雨辰。</text>
+    </view>
+  </view>
+  <view class="view-title">
+    <text class="text-title">iBeiKe网站大事记</text>
+  </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月1日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>北科大学生之家网站正式开通。学校领导，学联领导及校内外各大媒体参加了新闻发布会，并给予大力支持。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月3日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>推出“青春风采”频道，同学们的文学作品和个人主页可以在北科大学生之家网站上得到最大的展示。制作校园电子地图，方便同学们和广大校外的访问者熟悉整个学校。制作投票系统，可以配合学生会开展各种大型的网上调查，学生会的工作效率在北科大学生之家网站的努力配合下得到了很大的提高和发展。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月5日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与教务处合作取得选修课选中数据，编写了校内公共课网上查询系统，使同学们可以随时到网上查询自己的选修课选中情况。这是北科大学生之家网站配合学校校园办公自动化的一项成果。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月8日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>举办“女生节的问候”活动，开通了北科大学生之家网站网上贺卡中心，制作精美的电子贺卡位女生送去浓浓祝福。同时配合女生部，开辟了女生节晚会网上抢票的板块，免费为200位同学送出晚会舞票。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月初至4月初</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>进行了为期一个月的“毕业生意向网上调查”，共有758人参加网上调查，其中381人选择考研深造，215人选择出国留学，162人选择就业工作。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月15日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>北科大学生之家网站广泛采纳同学们的意见，改版各个频道，并着重对北科大学生之家网站校园社区从美工和技术上进行了升级，同时于15日至25日举办了“北科大学生之家网站改版送大礼，网上网下一样精彩”的活动，奖励了许多为北科大学生之家网站校园社区出谋划策，繁荣校园网络文化做出贡献的同学，进一步增强了北科大学生之家网站在同学生活中的影响。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月16日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>推出全国邮政编码、电话区号查询系统。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月中旬</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>配合学生会权益部进行“校园文明建设岗”网上选宣传。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月中旬</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为“北京科技大学首届主持人挑战大赛”开通了i北科大学生之家网站网上专版，开始对这次活动进行全程跟踪报道。赛前报名除了采用网下报名外，北科大学生之家网站还编写了在线报名程序，同学们可以在网上报名参赛。整个决赛实况由北科大学生之家网站进行了网上直播，同学们给予了一致好评。赛后，制作了大赛节目花絮，对大赛进行后期宣传。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年3月底</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>配合“我爱我师——我心目中最优秀的老师”评选活动开通了网上宣传阵地，将优秀老师的事迹放到网上向全校同学报道。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年4月5日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>中美飞机相撞当天，北科大学生之家网站及时在网上做出报道，并进行了网上投票调查，实时反映了同学们的看法和意见。共有906名同学参与了撞机事件网上调查，541人选择强烈抗议，249人选择公开道歉、赔偿损失，18人选择意外事件，以和为贵，98人选择无聊透顶，别来烦我。从这次调查可以看出广大同学高涨的爱国主义热情。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年4月初</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>升级了“万能搜索”系统，补充了大量与同学生活密切相关的信息查询。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年4月15日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为北京科技大学50年校庆特别制作了北科大学生之家网站校庆专版，得到了学校领导和校庆筹备委员会的一致好评。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年4月21日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>北科大学生之家网站进行全校招新，经过层层选拔，最后成功吸收了10名同学充实了iBeiKe团队。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年4月23日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>推出iBeiKe网上商城，开辟校园电子商务的先河，让同学们感受网络时代的购物模式。同时推出的有iBeiKe跳蚤市场，方便毕业生同学处理自己的二手货。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年4月28日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与旅游协会合作，全程报道北京科技大学首届旅游文化节。为同学五一外出提供各种旅游咨询。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年5月初</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>Estudy频道全部改版，并隆重推出4、6级专版，为提高同学们的服务上了一个台阶。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年5月初</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与文法学院合作，开辟了“星期四人文讲座”的iBeiKe专版，丰富了网站的人文化内容。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年5月11日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>配合“世纪之春2001届毕业生文艺晚会”尝试进行纪录片制作，现场设置投影直播本次晚会，开创北京科技大学文艺晚会的新形式——现场投影直播。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年5月13日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与外界公司合作，寻求服务器空间，正式推出功能强大的iBeiKe聊天室。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年5月20日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与冶金学院合作，开辟冶金学院奖学金获得者网上查询。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年5月24日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>北科大学生之家网站全新改版，推出了更友好的界面风格。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年5月25日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>随着四级考试的来临，为更好的服务同学，我们推出“iBeiKe帮你过四级”的活动，在首页放置四级倒计时的提醒钟，扩充了四级专版的资料库，并编写了网络背单词程序，集成了四级词库，是同学在浏览北科大学生之家网站的页面时可以即时背单词。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年5月30日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>和应用学院合作推出“应用学院2000级学习经验交流会”电子宣传专版。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年6月15日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>北科大学生之家网站首页第三版及每周一星栏目。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年7月5日-7月25日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe制作人员展开暑期集中工作，更新www站和city站。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年7月底</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe讨论通过实行会员制度，并通过签定合同的方式，联系商家，寻求合作，为会员制度的推广奠定了基础。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年7月24日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe接到北京市学生联合会制作第21届世界大学生运动会彩虹志愿者网站的任务。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年7月29日-9月初</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe设计、制作、维护第21届世界大学生运动会彩虹志愿者网站，赢得了社会各界人士和大运会组委会的认可和支持，特别得到了广大彩虹志愿者的拥护。网站的开通和成功的运营，成为大运会的一大亮点，这是大运会历史上的第一个志愿者网站，同时国内媒体对此做了大量的报道。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年9月1日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>北科大学生之家网站——www站全面更新上传，同时，为了更好的为广大师生服务，我们开辟了新的版块</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>社团动态、心理咨询、兼职就业，同时开辟专门信箱征求全校师生意见。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年9月初</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为迎接2001级新生，iBeiKe制作新生专版，并与校会新闻中心合作推出迎新特刊。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年10月18日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>校园社区全新改版上传，此次改版，内容丰富程度，技术含量大小，美工色彩搭配，更加成熟和完善。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年9、10月间</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>网站俱乐部和商务部积极酝酿iBeiKe会员卡制度，开辟网上网下服务新概念，成为高校校园网络服务理念中新的亮点。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年11月8日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为增强2001级新生文艺汇演“燃情深秋”的科技含量和可视化效果，网站为此次晚会的各项筹备工作提供电脑技术支持，并于当晚为汇演提供电脑特效、进行现场投影直播，由美工设计多媒体动画，程序员等亲自操作。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年11月10日10:30A</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>科技大学学生会北科大学生之家网站网站会员卡发行仪式暨庆祝活动在北京科技大学学生活动中心隆重举行。《中国青年》、《计算机世界》和《中青网》等多家新闻媒体对此次活动进行了现场采访报道。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年9月28日起</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>俱乐部人员利用周末，在iBeiKe影院——逸夫楼704，为广大会员免费播放影片，娱乐广大会员的课余生活。教师们、同学们对这种会员服务方式给了很高的评价。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年12月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe网站在首都高校学生会活动中脱颖而出，被北京市学联授予2001年度“首都高校学生会工作创新奖”。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年12月20日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>北京科技大学迎校庆形象大使选拔赛，iBeiKe为此次活动制作电脑特效，进行现场大屏幕投影直播，受到在场观众和师生的好评。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年12月21日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe为文法学院迎校庆师生文艺汇演进行现场提供投影现场直播及投影技术支持，受到文法学院师生的好评。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年12月25日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>举行iBeiKe.会员校园游艺大赛。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2001年12月26日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与信息学院合办网络时空迎校庆新年舞会。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年3月1日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeike站庆一周年。站庆活动</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe影院免费电影、免费舞会、系列讲座等。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年3月8日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与女生部合作，举办3.8女生专场免费电影。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年3月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>举办iBeiKe网站网友茶话会，大家共同为iBeiKe的发展出谋划策。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年3月下旬到5月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>开发并维护共青团北京市第十一次代表大会网站。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年5月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与管理学院王未卿老师合作，将《国际金融》的选修课作业放在网上进行，并取得良好的效果。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年6月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>评选iBeiKe最佳贡献奖。MVP是每学期iBeiKe工作人员的最高荣誉。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年暑期期间</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe开发人员展开暑期集中工作，对www站进行改版。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年开学初</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe换届，郝春风出任CEO，江树源出任CTO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年11月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为“拥抱明天——2002级新生文艺晚会” 提供大屏幕投影，承建后勤集团网站、市学联九大网站（大学生网上社区）。制作北京科技大学第21次学生代表大会专题网页。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2002年12月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe迎新年内部活动。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2003年3月1日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe站庆两周年。站庆活动</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe影院免费电影。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2003年3月8日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>与女生部、信息工程学院学生会共同放映“北京科技大学第二届女生节系列活动”iBeiKe女生节专场免费电影。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2003年9月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe换届，白伯纯出任CEO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2003年10月1日至3日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe集中开发，进行全面改版，升级Access数据库至SQL Server数据库。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2003年11月6日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为“金秋扬想——2003级新生文艺晚会”提供大屏幕投影及音乐文件制作。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2003年12月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe迎新年内部活动。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2004年3月初</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为“北京科技大学第三届女生节系列活动”提供网上宣传，网上订票</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2004年3月14日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe站庆三周年。站庆活动</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>发行会员卡。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2004年4月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为毕业生“我爱我师——我心目中最优秀的老师”评选活动提供展板制作，网上宣传，网上评选。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2004年4月18日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为毕业生“我爱我师——我心目中最优秀的老师”评选大会提供大屏幕投影。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2004年5月31日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>为“情系北科——2004届毕业生文艺晚会”提供大屏幕投影及音乐文件制作。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2004年7月1日至14日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe集中开发，进行全面改版。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2004年9月17日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe换届，李琳出任CEO，李乐丁任CTO，胡晓斌任办公室主任，黄文辉任开发部部长，张莹莹任信息部部长。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2005年6月21日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>吴亮担任iBeiKe团队第七任CEO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2006年5月16日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>李琳和李乐丁建立“iBeiKe Wiki”（时称“贝壳百科”），域名wiki.ibeike.com。在这之后的一段时间里，该网站由李琳和张琦负责主要条目得编辑工作。 后来，系统代码错误的问题使贝壳百科一度中止了运行。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2006年5月29日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队换届。换届之后，第五任CEO为郑亮，第五任CTO为伍超，第一任美术总监为唐吉德。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2007年3月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队成员（iBeiKe团队第一任美术总监）唐吉德重新为iBeiKe网站设计了文字徽标（iBeiKe标志），庆祝iBeiKe成立六周年；这个版本的标志被扩展到了其他项目。直到2009年，时任iBeiKe CTO的吴晓斌基于原始logo风格为iBeiKe网站及团队制定了iBeiKe视觉识别系统(VI)。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2007年6月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>马廷臣出任第九任CEO，下设技术开发部、美工部和原创部，分别由冯文阳、石曦和马骏担任部长，对内还设了公关部。2008年6月，冯文阳出任第十任CEO，团队重组部门，成立技术部、美工部和原创部三个下设部门，吴晓斌任技术部部长，袁项南任美工部部长，李斌任原创部部长，马骏任市场总监。在此年间，iBeiKe团队人员缺乏，平均只有不到5名成员。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2008年10月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队招新，扩充人员9名，“原创部”改名为“策划部”。2009年6月，袁项南任第十一任CEO，吴晓斌任第六任CTO。iBeiKe技术部改名为网络部，孙伯图任网络部部长、周朦任美工部部长、尚乐任策划部部长，同时继续启动站务组和办公室。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2009年7月17日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>原有域名wiki.ibeike.com基础上，iBeiKe成员孙伯图应用MediaWiki 1.15.1重新建立了贝壳百科，命名为“iBeiKe Wiki”（北科百科）。同时，北科百科由安世超接管。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2010年6月18日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队换届。尚乐任第十二任CEO，孙伯图任第七任CTO，杨彩燕任第三任CFO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2011年6月2日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队换届。邱永振任第十三任CEO，孙豪任第八任CTO，王基镔、崔颖任第四任CFO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2012年6月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队换届。贾志卿任第十四任CEO，关书伟任第九任CTO，刘彦廷任第五任CFO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2013年6月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队换届。宋文彬任第十五任CEO，李斗汉任第十任CTO，孙新宇、刘瑜任第六任CFO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2014年5月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队换届。蒋庆宇任第十六任CEO，靳京任第十一任CTO，刘白颿任第七任CFO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2015年5月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队换届。白思琦任第十七任CEO，曹宇宁任第十二任CTO，林文岑&杨丹任第八任CFO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2015年5月17日</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>值iBeiKe 15周年庆典之际，在蒋庆宇的带领下OCW课件共享域名</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>ocw.ibeike.com 平台成功发布并上线运营。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2016年5月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>iBeiKe团队换届。王靖儒任第十八任CEO，高玉婷任第十三任CTO，马亨飞&韩杰任第九任CFO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2017年6月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>田晔任第十九任CEO，黄雅慧任第十四任CTO，范翔宇任第十任COO，邢哲宁任第十任CFO。</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2018年5月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>发布iBuy北科网上商城 ibuy.ibeike.com</text> </view>
+  <view class="view-text">
+    <text class='text text-date'>2018年5月</text> </view>
+  <view class="view-text">
+    <text class='text text-first'>张之健任第二十任CEO，方梓霖任第十五任CTO，杭中辞任第十一任COO，张俊峰任第八任CFO，韦雨辰任第四任CAO。</text>
+  </view>
+</scroll-view>

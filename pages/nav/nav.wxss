@@ -1,0 +1,133 @@
+.page{
+  background-color: #9ac1d4;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* .topBar {
+  height: 6vh;
+  width: 100vw;
+  margin-left: 0.5vw;
+  margin-top: 0.3vh;
+  padding-top: 0.2vh;
+  display: flex;
+  flex-direction: row;
+  background-color: yellowgreen;
+}
+
+.top-item{
+  border: 1px solid black;
+  height: 5vh!important;
+  line-height: 4vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.top-item text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9ac1d4;
+  color: whitesmoke;
+  height: 4vh;
+}
+
+.whiteLine {
+  margin-top: 0.5vh;
+  height: 0.5vh;
+  background-color: whitesmoke;
+} */
+
+.view-map{
+  height: 44vh;
+  /* padding-top: 20rpx; */
+  padding-bottom: 20rpx;
+  /* border: 1px solid black; */
+}
+
+.topScroll{
+  /* height: 4.5vh; */
+  /* border: 1px solid red; */
+  /* padding-top: 0.3vh; */
+  margin-top: 0.3vh;
+}
+
+.scroll-x {
+  display: flex;
+  flex-direction: row;
+}
+
+.scroll-y {
+  display: flex;
+  flex-direction: column;
+  height: 5vh;
+  /* background-color: red; */
+}
+
+.scroll-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 4vh;
+  /* background-color: #9ac1d4; */
+  color: whitesmoke;
+}
+
+.scroll-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10%;
+  margin-top: 0.2vh;
+  width: 80%;
+  height: 0.4vh;
+  background-color: whitesmoke;
+}
+
+/* --------------------------------------------------------------------- */
+
+.post-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  margin-bottom: 15rpx;
+  background-color: whitesmoke;  
+  height: 90rpx;
+  border-radius: 50rpx;
+}
+
+.image-nav {
+  margin-top: 20rpx;
+  margin-right: 20rpx;
+  width: 75rpx;
+  height: 50rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-nav {
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  width: 85%;
+  height: 60rpx;
+  color: rgb(79, 79, 79);
+}
+
+.myLocation {
+  width: 60rpx;
+  height: 60rpx;
+  margin-top: 520rpx;
+  margin-left: 670rpx;
+}
+
+.bottomScroll{
+  height: 46vh;
+  /* margin-top: 15rpx; */
+  background-color: #9ac1d4;
+}
+
+.bottomScroll :last-child {
+  /* margin-bottom: 5vh; */
+}

@@ -1,0 +1,33 @@
+.text-title-3 {
+  font-weight: bold;
+  font-size: 35rpx;
+  margin-left: 35rpx;
+  color: rgb(79, 79, 79);
+}
+
+.view-title-3 {
+  margin: 20rpx 50rpx 20rpx 50rpx;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  margin: 50rpx;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.unit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5rpx;
+}
+
+.text-form{
+  font-size: 15rpx;
+  color: rgb(79, 79, 79);
+}

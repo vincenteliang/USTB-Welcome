@@ -1,0 +1,181 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class="view-title">
+    <text class="text-title">万秀园</text>
+  </view>
+
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>4、5斋宿舍群的东侧，靠近东门公寓，在北科体育馆对面。一层并设有四台校园卡圈存机，可以进行校园卡转账、网费缴纳和电费充值等业务；二层有校园卡现金充值的人工窗口。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>营业时间及楼层：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>早餐(时间：6:45-9:00)，一、二层。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>午餐(时间：10:30-13:00)，一、二、三、四层。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>晚餐(时间：16:30-19:00)，一、二、三、四层。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>夜宵(时间：19:00-20:00)，一、四层。（四层营业结束时间为21点左右）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>一层：中餐食堂，菜色范围广泛；粉面，炒面（饭），小炒，炸鸡套餐，饮品。中、晚餐时有独家主食面点。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>夜宵特色：麻辣烫，汤面，馄饨，煎包（荐！）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>二层：平价楼层，蛋炒饭（荐！）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>三层：陕西美食、兰州美食等；小炒一绝，双拼仅需8元（荐！）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>四层：对外开放的万秀园餐厅，菜单点餐，现金消费，价格跟一般校外饭馆差不多，但饭菜可口，平价量足，是解馋和宴请的好去处。（万秀园餐厅的钢铁摇篮是本校特色招牌菜，身为贝壳一定要尝一尝）</text>
+    </view>
+    <view class="view-text">
+      <text class="text-title-inblock">Tips:</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>关于校园卡业务办理地点：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>万秀园二层、鸿博园一层和学术报告厅楼下卡务中心各有一个校园卡人工充值点，在这里可以使用现金充值校园卡。此外，我们也可以使用自助圈存机（位于万秀一层、鸿博一层、九斋一层、逸夫楼一层和五斋一层）从中行卡中转账充值校园卡，比从银行取钱再使用现金给校园卡充值要省事很多。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>圈存机转账流程：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>选择网校转账，需要输入密码（注：此密码为校园卡密码，初始密码为123456），中行卡号后六位即（录取通知书的信封中给大家的中国银行的银行卡的卡号后六位），转账金额等。月末可能会出现系统结算而无法转账的情况，隔天恢复。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>圈存机的其它服务：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>充值个人网费和寝室电费也可在圈存机上完成，公寓大堂里的显示屏会滚动播放快没电的寝室，随时可以在圈存机上查询寝室剩余电量，记得定时"充电"哦，突然没电很麻烦的～</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">鸿博园</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>鸿博园坐落在校园的西南部，位于冶金生态楼的北侧，2斋西侧。鸿博园同样也有自助圈存机。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>营业时间及楼层：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>早餐(时间：6:45-9:00)，一、二层。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>午餐(时间：10:30-13:00)，一、二、三、四层。（四层中午为教职工专属）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>晚餐(时间：16:30-19:00)，一、二、三、四层。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>夜宵(时间：19:00-20:00)，一、四层。（四层营业结束时间为21点左右）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>一层：早起上课吃早餐的好去处，各地风味，麻辣香锅，石锅拌饭（荐！），水煮玉米（荐！），京酱肉丝（荐！）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>二层：中炒、套餐、面食等，卤肉饭（荐！）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>三层：清真食堂，盖饭，拌面，卤面等，大盘鸡拌面（荐！）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>四层：教师食堂。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>注：四层只有晚餐和夜宵面对学生开放，菜品和其他三层相似。冬天的时候有涮锅。点菜的话可以刷校园卡或者付现金。校内的老师常在四层吃饭。</text> </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">校内餐饮</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>小物美小吃街：早上有早餐餐点类，任意时段都有煎饼，烤冷面等小吃，自习回寝路过一下，犒劳自己～那边还有沙县小吃。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>友谊餐厅：万秀园南面，类似万秀四层，是符合较高需求的聚餐场地。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北京科技大学会议中心：万秀园南面的高楼（类似酒店）。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">周边餐馆</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>东门（向北）：走有伊喜饺子，小街卤煮，小渝府，小码头火锅，山晋云中刀削面，雅佳川菜烤鱼等。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>南门（穿过北医）：比格，吉野家等。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>西门（向北）：麦当劳，肯德基等。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>另外：往牡丹园方向走也有很多不错的餐馆，离学校也不算远，如欢乐牧场自助火锅，海底捞，陈阿婆等。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">均衡饮食</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>校内水果店：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>许鲜：大物美一层，一家水果电商，网上下单，第二天提货，方便新鲜，价格略贵（不支持直接购买）。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>小物美水果店：沿街就有两家，小路进去还有一家，保时保鲜，价格适中。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>小物美东侧的居民区里，有一家北科大菜市场，蔬菜、水果都有卖，质量可以，价格稍贵。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>校外水果店：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>百果园，嘉果一品：出东门往北走，在十字路口的西边即可看见两家水果店隔街相对，价格便宜，办理会员有小幅优惠。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>物美大卖场：上文提到的十字路口继续往西，物美大卖场里的水果蔬菜区。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">咖啡奶茶</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>学校有两个安静文艺的咖啡厅～</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>酷云咖啡：从图书馆东门进去左拐，在一层新书阅览室旁边，还提供面包，甜点，小蛋糕和各类西餐主食，并且偶尔还举办沙龙活动。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>时光北岸咖啡厅：位于7斋学生活动中心一层，位置便利，味道不错。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>90°炭烧咖啡：位于大物美一层，除售卖各类咖啡、奶茶外，兼卖冰淇淋，奶茶，布丁，双皮奶，绿豆冰沙等，价格适中。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>瑞幸咖啡：连锁店，在学活，逸夫楼，鸿博园，万秀园的一楼，以及体育馆二楼，分别设有门店，线上点单很方便。</text>
+    </view>
+  </view>
+</scroll-view>

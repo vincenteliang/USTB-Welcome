@@ -1,0 +1,183 @@
+<scroll-view scroll-y='true' style='height:100vh'>
+  <view class="view-title">
+    <text class="text-title">上网</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>原则上来说，</text>
+      <text class='text text-strong'>大一上学期是不允许带电脑的</text>
+      <text class='text text-after'>。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>学生在宿舍内可以上网，每个宿舍都有1到2个上网口，可以直接连接校园网。并不能擅自迁网线开通校外运营商网络。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>校园网学生用户组收费标准：1.5G/元。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>如何缴费：登陆http://pay.ustb.edu.cn可用使用支付宝进行上网费用的充值，大概两分钟到账，很方便。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>路由器攻略：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>步骤1：如图链接路由器</text>
+      <image src="https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/wlan.png" style='width:100%' mode="widthFix"></image>
+      <text class='text text-first'>步骤2：根据路由器的说明书一步一步设置</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>步骤3：在路由器设置中找到DHCP选项，将其关闭，即可开始愉快的上网了（不这样做的话会互相串号）。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>步骤4：联网嗨起来，别忘了在 http://city.ibeike.com 逛逛哦！</text>
+      <text class='text text-strong'>不用登录，免费的哦！</text>
+      <text class='text text-after'></text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>路由器选购指南：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）建议自行在大型电商购买，价格比学校内很多小商贩要实惠不少，而且品种更齐全，售后更有保障。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）100元左右的比较合适，太便宜的可能性能不够，再贵的性能就会冗余了。另外，因为每个寝室都有两个网口，而一个路由器只有3个口可以用来接电脑，所以建议和室友们合资购买两个路由器，这样日后全寝室的电脑都可以用有线上网，稳定性是无线不可比拟的。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）2.4GHz和5GHz路由器怎么选：经常有同学问这个问题，现在路由器参数这么多，尤其是频率这个，完全搞不懂。实际上，在寝室使用的话，这两个是差不多的。不用太纠结。</text>
+      <image src="https://wx-source-1251959181.cos.ap-beijing.myqcloud.com/USTB-Navigate/gonglue/5G.png" style='width:100%' mode="widthFix"></image>
+    </view>
+    <view class="view-text">
+      <text class="text-title-inblock">Tips:</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>上网账户只能在一卡通机器上开通，不能单独人工受理。一个账号可两点登陆。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>学校内的上网地点一般晚九、十点钟就会关门，有空调。学校的上网地点、打印店里由于人员复杂，病毒都会比较多，所以在这里插U盘会很容易染毒，建议用完后将U盘直接格式化。（有些打印店不能上网）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>常用网站：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）本科教学网(http://teach.ustb.edu.cn)——很多重要通知会在这里公布。这是北科本科生必须上的网站，尤其是里面的教务管理系统，选课、查分、报名竞赛、查看课表、网上评教（注意：学校课程一般都需要网上评教才能看到你的成绩，而且必须所有科目均评教后才能选课）等都要在此进行。另外，很多重要的教务通知、讲座竞赛信息也会在这里通知。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）</text>
+      <text class='text text-strong'>iBeiKe论坛(http://city.ibeike.com) </text>
+      <text class='text text-after'>——北科大人自己的BBS，这也是北科大学生必上的网站之一，是学校的官方网站，也是同学们的交流平台，iBeiKe提供了</text>
+      <text class='text text-strong'>贝城社区论坛，北科百科wiki，课件搜索OCW，PT下载站</text>
+      <text class='text text-after'>等多项服务，高清电影免费看，在北科读书却没来过这里就不能算完整的北科大学生。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）图书馆(http://lib.ustb.edu.cn)——查看自己借书还书记录，以免借书到期未还没还。图书馆有其借阅规则，超期归还会有罚款。另外其中的网络数据库也是非常强大的，你以后写论文，查资料时非常常用且好用，不要等到大四了该写毕设了才想起来用这个，他对于同学们平时也是很有用的。另外学习一些网络数据库的检索方法也是有必要的。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>4）团学在线(http://www.5470.cn)——学校里面的一些团学方面的重要通知，还有各社团的新闻都会在上面看到。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>5）北科大信息门户(http://e.ustb.edu.cn)——这是北科校园各种信息的综合平台，这里集合了我校各大网站的数据库，有关于你的各种信息，甚至是你一卡通的每次消费都可以查到。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>PS：校园网是按流量计费的，而且对迅雷之类的软件有限制，在此推荐几个用校园网高速、不计流量下载资源的好站点（一般用uTorrent这个软件）：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>校内的：</text>
+      <text class='text text-strong'>iBeiKe PT站(http://pt.ibeike.com)——（校内网不需要登陆校园网即可使用，最便捷，注册即可使用）</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>校外的：</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>六维空间(http://bt.neu6.edu.cn)</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>北邮人(http://bt.byr.cn)</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">KTV</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>1）麦颂：学院路店位于学院路7号弘彧大厦，从西门出来一直向北1.5km左右即到。牡丹园店在花园东路11号泰兴大厦5号楼108号，位于地铁牡丹园站附近。质量不错，歌曲更新很快，设备很好，音质也很好，推荐。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）北方鑫柜：科大学子御用KTV。地理位置极近且价格适中，环境也不错。但是设备和歌曲更新比较慢，从东门出来左转走到十字路口向东10米处就是。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）赛乐堡：位于海淀区双清路88号，靠近清华东门，距离学校不远。从西门乘坐438路在清华东路西口下车即到，也可乘坐331/375/656/562路到五道口站下车。从南门志新桥西坐429也可。提供自助餐。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>4）十七英里：位于海淀区苏州街3号大恒科技大厦。从南门步行至学院桥东站（南门往西，至学校西南角左转，过马路左转）坐740外/运通113/983路到海淀桥下车再向南走约200米即可。价位适中，环境也不错。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>5）名柜KTV：海淀区中关村科贸电子城8层。东门志新桥西乘坐696路公交，中关村北下车，再步行555米到达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>6）快乐地带KTV：海淀区成府路35号东源大厦6楼，城铁附近。东门志新桥西乘坐429路公交，五道口下车，步行205米到达。</text>
+    </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">电影</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>学生证电影票可以打折。此外许多团购网站（美团，糯米团等）会经常有比学生票还便宜的团购。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>1）五道口电影院：离学校最近。坐车到五道口站随便走两步就看到了。票价比大电影院便宜。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>2）嘉华国际影城：位于圣熙8号购物中心，环境十分不错，服务周到，观影体验好，推荐。西门口坐392或693或490路车，到石板房站下车；或者从西门出一直往北走，经过三个路口，也就是过了农大就到了，规模很大，而且经常有团购票。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>3）海淀剧院:海淀剧院的位置很好，紧挨中关村电子市场和家乐福旗舰店，最重要的，海淀剧院是海淀文委的单位，票价是有一定服务性的，常有学生价。南门乘坐983路，在中关村西站下车，步行700米至海淀剧院。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>4）美嘉欢乐影城（中关村店）：位于中关村15号津乐汇3楼，从西门乘坐26路，或从东门乘坐特9外环运通113/983/740外/740外公益西桥，在中关村西站下车，中关村地铁站D口向西100米左右。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>5）金逸国际电影城（中关村店）：位于中关村19号新中关购物中心B1层。可以乘坐地铁，至海淀黄庄站。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>6）花园路国安剧院：西门乘坐484路在塔院站下车，步行500米至国安剧院。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>7）辅仁电影院：西门乘坐484路在塔院站下车，步行260米至辅仁电影院。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>8）华星影院：西门乘坐运通103，在明光村下车，步行30米至华星影院。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>9）星美国际影城：从南门出发步行至学院桥东站（南门往西，至学校西南角左转，过马路左转），乘坐运通109，在远大路东口站下车，步行130米到达。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>10）首都电影院：西单大悦城顶楼，环境非常不错。乘坐47路，在缸瓦市站下车，步行590米至首都电影院。路程时间约50分钟。也可以乘坐地铁，至西单站。</text> </view>
+  </view>
+
+  <view class="view-title">
+    <text class="text-title">运动</text>
+  </view>
+  <view class="view-block">
+    <view class="view-text">
+      <text class='text text-first'>北科大的体育场地还是比较紧张的。除了体育课上课时间（上午两节课和下午第一节课），篮球场是随时可以打的（操场西北角有灯光的小场一人10元随便打）。足球场开门时间不确定。网球场是20元/小时（可以趁早晨和中午体育课之前进去玩）。在大操场的东边，有一些健身器材，很适合晨练及晚上锻炼。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>同时我校的体育馆是2008年的奥运场馆，环境相当不错，而且现在已经对学生开放了。羽毛球、乒乓球、篮球等场地都可出租，周一到周五白天价位是10元/小时，周一到周五晚上以及周末价位是30元/小时。游泳馆也对咱们同学们开放，时间是中午12：00——13：30，下午16：00——17：30，凭学生证，每场10元，周末和晚上价格翻三倍（去体育馆记得带学生证）。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>同样属于体育馆的还有游泳馆，热爱游泳的同学可以在闲暇时间去，馆内环境不错，拥有两个游泳区：深水2.4米（需要办深水证，每人10元，记得带1寸照片），浅水1.2米。办一张学生卡只要210元，30次，也就是大约7元/次，一次可以游一个半小时。注意：游泳卡一次充值的有效期5个月，有效期内没有用完游泳卡将被冻结，充值后可激活重新使用。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>PS：体育馆比较火爆，想去使用场地的同学最好提前预定一下。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>每年10月，会举行全校范围的新生运动会。来年的3至4月份，各个学院会组织自己的运动会，地点都是在操场，时间会被错开。五六月份还会有最大规模的校运动会。</text>
+    </view>
+    <view class="view-text">
+      <text class='text text-first'>在学校旁边的天工大厦A座3层有一家健身房叫科大中冶健身，非常近，环境好，价钱对学生来说稍微有些贵（100次卡和1年卡都是3500），不是特别大但是器材基本够用，器材都是进口的而且很新因为2015年才开。对环境要求高的同学可以选择。</text>
+    </view>
+  </view>
+</scroll-view>

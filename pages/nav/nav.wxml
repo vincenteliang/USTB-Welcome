@@ -1,0 +1,67 @@
+<view class='page' style='height:100vh'>
+
+  <view class='topBar' hidden>
+    <view wx:for='{{topScrollView}}' class='top-item' bindtap='{{item.bindtap}}' style='width:{{item.width}}'>
+      <text id="{{item.id}}">{{item.text}}</text>
+      <view class='whiteLine' hidden='{{item.hidden}}'></view>
+    </view>
+  </view>
+
+  <view class='topScroll' style='height:6vh' hidden>
+    <view class="scroll-x">
+      <view class='scroll-y' style="width:120rpx;" bindtap='a'>
+        <text id="{{item.tag}}" class="scroll-text">院系</text>
+        <view class='scroll-bottom' hidden='{{a}}'>
+        </view>
+      </view>
+      <view class='scroll-y' style="width:160rpx" bindtap='b'>
+        <text id="{{item.tag}}" class="scroll-text">教学楼</text>
+        <view class='scroll-bottom' hidden='{{b}}'>
+        </view>
+      </view>
+      <view class='scroll-y' style="width:120rpx" bindtap='c'>
+        <text id="{{item.tag}}" class="scroll-text">宿舍</text>
+        <view class='scroll-bottom' hidden='{{c}}'>
+        </view>
+      </view>
+      <view class='scroll-y' style="width:120rpx" bindtap='d'>
+        <text id="{{item.tag}}" class="scroll-text">餐饮</text>
+        <view class='scroll-bottom' hidden='{{d}}'>
+        </view>
+      </view>
+      <view class='scroll-y' style="width:120rpx" bindtap='e'>
+        <text id="{{item.tag}}" class="scroll-text">场馆</text>
+        <view class='scroll-bottom' hidden='{{e}}'>
+        </view>
+      </view>
+      <view class='scroll-y' style="width:120rpx" bindtap='f'>
+        <text id="{{item.tag}}" class="scroll-text">校门</text>
+        <view class='scroll-bottom' hidden='{{f}}'>
+        </view>
+      </view>
+      <view class='scroll-y' style="width:120rpx" bindtap='g'>
+        <text id="{{item.tag}}" class="scroll-text">服务</text>
+        <view class='scroll-bottom' hidden='{{g}}'>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class='view-map'>
+    <map id='map' style="width: 100%; height: 100%;" scale='18' latitude='{{latitude}}' longitude='{{longitude}}' markers="{{markers}}" covers="{{covers}}" show-location='true' include-points='{{points}}'>
+      <cover-image hidden src='/resources/go.png' class='myLocation' bindtap='getMyLocation'></cover-image>
+    </map>
+  </view>
+
+  <scroll-view scroll-y class='bottomScroll'>
+    <view wx:for="{{list}}" class='post-container' data-id='{{item.id}}'>
+      <view class='text-nav' bindtap='goToDetail' data-id='{{item.id}}'>
+        <text>{{item.title}}</text>
+      </view>
+      <view class='image-nav' bindtap='goToNav' data-id='{{item.id}}' data-latitude='{{item.latitude}}' data-longitude='{{item.longitude}}' data-name='{{item.title}}'>
+        <image src='/resources/go.png' style='width:100%; height:100%;'></image>
+      </view>
+    </view>
+  </scroll-view>
+
+</view>

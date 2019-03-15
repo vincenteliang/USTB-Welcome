@@ -1,0 +1,47 @@
+.tabbar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 10vh;
+  /* background-color: rgba(255, 255, 255, 0.5) */
+}
+
+scroll-view {
+  height: 90vh;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  /* border: 2rpx solid black; */
+}
+
+.view-button-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+  width: 100%;
+  /* border: 2rpx solid red; */
+}
+
+.view-button-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30%;
+  width: 100%;
+  /* border: 2rpx solid green; */
+}
+
+.button-image {
+  height: 75rpx;
+  width: 80rpx;
+}
+
+.text {
+  font-size: pt;
+}
